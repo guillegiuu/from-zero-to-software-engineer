@@ -6,52 +6,86 @@ Este capítulo introduce las ideas fundamentales de la programación.
 
 ## What is Programming
 
-![page1](chapter1_page01.jpg)
+<p align="center">
+<img src="chapter1_page01.jpg" width="500">
+</p>
 
-![page2](chapter1_page02.jpg)
-
-![page3](chapter1_page03.jpg)
+<p align="center">
+<img src="chapter1_page02.jpg" width="500">
+</p>
 
 ---
 
 ## How Computers Work
 
-![page4](chapter1_page04.jpg)
+<p align="center">
+<img src="chapter1_page03.jpg" width="500">
+</p>
 
-![page5](chapter1_page05.jpg)
+<p align="center">
+<img src="chapter1_page04.jpg" width="500">
+</p>
 
-![page6](chapter1_page06.jpg)
+<p align="center">
+<img src="chapter1_page05.jpg" width="500">
+</p>
+
+<p align="center">
+<img src="chapter1_page06.jpg" width="500">
+</p>
 
 ---
 
 ## Algorithms
 
-![page7](chapter1_page07.jpg)
+<p align="center">
+<img src="chapter1_page07.jpg" width="500">
+</p>
 
-![page8](chapter1_page08.jpg)
+<p align="center">
+<img src="chapter1_page08.jpg" width="500">
+</p>
 
-![page9](chapter1_page09.jpg)
+<p align="center">
+<img src="chapter1_page09.jpg" width="500">
+</p>
+
+<p align="center">
+<img src="chapter1_page10.jpg" width="500">
+</p>
 
 ---
 
 ## Programming Languages
 
-![page10](chapter1_page10.jpg)
+<p align="center">
+<img src="chapter1_page11.jpg" width="500">
+</p>
 
-![page11](chapter1_page11.jpg)
+<p align="center">
+<img src="chapter1_page12.jpg" width="500">
+</p>
 
-![page12](chapter1_page12.jpg)
+<p align="center">
+<img src="chapter1_page13.jpg" width="500">
+</p>
+
+<p align="center">
+<img src="chapter1_page14.jpg" width="500">
+</p>
 
 ---
 
 ## Why Programming Matters
 
-![page13](chapter1_page13.jpg)
+<p align="center">
+<img src="chapter1_page15.jpg" width="500">
+</p>
 
-![page14](chapter1_page14.jpg)
+<p align="center">
+<img src="chapter1_page16.jpg" width="500">
+</p>
 
-![page15](chapter1_page15.jpg)
-
-![page16](chapter1_page16.jpg)
-
-![page17](chapter1_page17.jpg)
+<p align="center">
+<img src="chapter1_page17.jpg" width="500">
+</p>
