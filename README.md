@@ -1,5 +1,7 @@
 # From Zero to Software Engineer
 
+🏠 [Back to main profile](https://github.com/guillegiuu)
+
 Un recorrido visual aprendiendo Computer Science y programación desde cero.
 
 Este repositorio reúne mis apuntes visuales hechos a mano, explicaciones teóricas y ejemplos prácticos mientras avanzo en mi camino de estudio.
