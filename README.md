@@ -4,7 +4,7 @@
 
 Un recorrido visual aprendiendo Computer Science y programación desde cero.
 
-Este repositorio reúne mis apuntes visuales hechos a mano, explicaciones teóricas y ejemplos prácticos mientras avanzo en mi camino de estudio.
+Este repositorio documenta mi aprendizaje en Computer Science desde cero, combinando teoría, práctica y apuntes visuales.
 
 ---
 
