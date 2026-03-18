@@ -4,7 +4,7 @@
 
 Un recorrido visual aprendiendo Computer Science y programación desde cero.
 
-Este repositorio documenta mi aprendizaje en Computer Science desde cero, combinando teoría, práctica y apuntes visuales.
+Este repositorio documenta mi aprendizaje en Computer Science desde cero, combinando conceptos clave, referencia rápida y ejemplos prácticos.
 
 ---
 
@@ -25,8 +25,9 @@ Este repositorio documenta mi aprendizaje en Computer Science desde cero, combin
 
 ## Estructura del proyecto
 
-- `notes/` → apuntes visuales hechos a mano
-- `code_examples/` → ejemplos prácticos en Python
+- `notes/` → reglas de oro y conceptos clave en formato breve
+- `cheat-sheets/` → referencia rápida para repasar sintaxis y estructuras
+- `code_examples/` → ejemplos básicos y claros en Python
 
 ---
 
