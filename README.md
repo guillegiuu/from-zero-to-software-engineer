@@ -4,11 +4,15 @@
 
 Un recorrido visual aprendiendo Computer Science y programación desde cero.
 
-Este repositorio documenta mi aprendizaje en Computer Science desde cero, combinando conceptos clave, referencia rápida y ejemplos prácticos.
+Este repositorio documenta mi progreso en Computer Science desde cero, combinando conceptos clave, referencia rápida y ejemplos prácticos.
 
 ---
 
 ## Roadmap
+
+Este repositorio sigue mi progreso en Computer Science desde cero.
+
+👉 [Ver roadmap completo](./roadmap.md)
 
 ### Chapter 1 — Introduction to Programming
 
