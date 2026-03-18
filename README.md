@@ -10,10 +10,10 @@ Este repositorio documenta mi aprendizaje en Computer Science desde cero, combin
 
 ## Roadmap
 
-### Chapter 1 — Introducción a la Programación
+### Chapter 1 — Introduction to Programming
 - [Ver capítulo 1](notes/chapter1_introduction/README.md)
 
-### Próximos capítulos
+### Upcoming Chapters
 - Chapter 2 — Variables and Data Types
 - Chapter 3 — Control Flow
 - Chapter 4 — Functions
