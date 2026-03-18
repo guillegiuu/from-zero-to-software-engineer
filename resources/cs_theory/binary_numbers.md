@@ -1,6 +1,6 @@
 # Binary Numbers
 
-📄 Fuente: cs-theory-udemy-notes.pdf  
+📄 Fuente: [cs-theory-udemy-notes.pdf](../cs-theory-udemy-notes.pdf)
 📍 Páginas: 1 - 3  
 
 ---
