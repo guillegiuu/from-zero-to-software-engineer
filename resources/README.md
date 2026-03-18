@@ -4,6 +4,14 @@ Material adicional utilizado durante mi proceso de aprendizaje en Computer Scien
 
 ---
 
+## 🧠 Computer Science Theory
+
+Apuntes teóricos basados en un curso de Udemy + notas propias.
+
+👉 [Ver sección completa](./cs_theory/README.md)
+
+---
+
 ## 🧠 Apuntes de Computer Science (Teoría)
 
 Apuntes escritos a mano basados en un curso teórico de Computer Science (Udemy), utilizados como refuerzo personal para comprender y afianzar conceptos fundamentales.
