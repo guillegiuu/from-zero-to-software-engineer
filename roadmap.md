@@ -1,8 +1,8 @@
 # 🗺️ Computer Science Roadmap
 
-Registro personal de los temas que fui explorando durante mi formación en Computer Science y programación.
+Registro de los temas que fui explorando durante mi formación en Computer Science y programación.
 
-Este roadmap funciona como una guía para ordenar conceptos, reforzar bases y visualizar mi progreso a lo largo del tiempo.
+Este roadmap me sirve para organizar lo aprendido, reforzar bases y visualizar mi progreso a lo largo del tiempo.
 
 ---
 
@@ -49,9 +49,9 @@ Tomo este roadmap interactivo como referencia visual para tener una visión más
 
 ## 📌 Nota
 
-Este documento refleja mi recorrido personal y se irá actualizando a medida que avance en nuevos temas.
+Este documento refleja mi recorrido y se irá actualizando a medida que avance en nuevos temas.
 
-No representa una ruta definitiva ni universal, sino una referencia complementaria dentro de mi proceso de formación, cuyo eje principal está basado en Codecademy y otros recursos.
+Es una referencia personal complementaria, alineada principalmente con mi formación en Codecademy y otros recursos.
 
 ---
 
