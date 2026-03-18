@@ -8,7 +8,11 @@ Material adicional utilizado durante mi proceso de aprendizaje en Computer Scien
 
 Apuntes teóricos basados en un curso de Udemy + notas propias.
 
-👉 [Ver sección completa](./cs_theory/README.md)
+Estos apuntes corresponden a un curso teórico de Computer Science que realicé anteriormente en Udemy.
+
+Los utilicé como base para comprender conceptos fundamentales y los conservo como material de referencia dentro de mi proceso de aprendizaje.
+
+🎓 Curso base: [Computer Science 101 - Udemy](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/)
 
 ---
 
