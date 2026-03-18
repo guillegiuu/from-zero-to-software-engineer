@@ -1,4 +1,6 @@
-# Chapter 1 — Introducción a la Programación
+# Chapter 1 — Introduction to Programming
+
+🏠 [Back to main repository](../../README.md)
 
 Este capítulo introduce las ideas fundamentales de la programación.
 
