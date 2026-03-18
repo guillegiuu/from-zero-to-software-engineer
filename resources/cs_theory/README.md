@@ -20,7 +20,7 @@ Resumen de conceptos fundamentales de Computer Science basados en mis apuntes te
 
 ### ⚙️ Algoritmos
 
-- 📈 Big O Notation *(próximamente)*  
+- 📈 [Big O Notation](big_o.md)  
   📍 Páginas: 5 - 17
 
 ---
