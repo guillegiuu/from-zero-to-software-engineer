@@ -13,7 +13,7 @@ Este repositorio documenta mi aprendizaje en Computer Science desde cero, combin
 ### Chapter 1 — Introduction to Programming
 
 - 📘 [Ver teoría](notes/chapter1_introduction/)
-- 💻 [Ver ejemplos de código](code_examples/chapter1/)
+- 💻 [Explorar ejemplos de código](code_examples/chapter1/)
 
 ### Upcoming Chapters
 - Chapter 2 — Variables and Data Types
