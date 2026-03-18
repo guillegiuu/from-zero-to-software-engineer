@@ -2,15 +2,15 @@
 
 🏠 [Back to main profile](https://github.com/guillegiuu)
 
-Un recorrido visual aprendiendo Computer Science y programación desde cero.
+Un recorrido visual aprendiendo Computer Science y programación.
 
-Este repositorio documenta mi progreso en Computer Science desde cero, combinando conceptos clave, referencia rápida y ejemplos prácticos.
+Este repositorio documenta mi progreso, combinando conceptos clave, referencia rápida y ejemplos prácticos.
 
 ---
 
 ## Roadmap
 
-Este repositorio sigue mi progreso en Computer Science desde cero.
+Este repositorio refleja mi progreso en Computer Science desde cero.
 
 👉 [Ver roadmap completo](./roadmap.md)
 
