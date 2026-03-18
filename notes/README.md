@@ -1,25 +1,25 @@
 # Notes
 
-Esta sección contiene reglas de oro y conceptos clave resumidos por capítulo.
+Esta sección contiene mis apuntes y resúmenes de Computer Science organizados por capítulo.
 
-El objetivo es:
+Incluye:
 
-- Entender los fundamentos sin exceso de teoría
-- Tener definiciones claras y simples
-- Consolidar lo aprendido de forma práctica
+- Apuntes visuales hechos a mano
+- Conceptos clave explicados de forma clara
+- Resúmenes progresivos de cada tema
 
 ---
 
 ## Estructura
 
-Cada capítulo incluye:
+Cada capítulo contiene:
 
-- Conceptos clave explicados de forma breve
-- Reglas de oro para recordar
-- Ejemplos simples cuando sea necesario
+- Apuntes visuales (imágenes)
+- Explicaciones de los conceptos principales
+- Organización paso a paso del aprendizaje
 
 ---
 
 ## Objetivo
 
-Construir una base sólida en Computer Science a través de comprensión real, no memorización.
+Construir una base sólida en Computer Science documentando el proceso de aprendizaje de forma clara y progresiva.
