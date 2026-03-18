@@ -8,7 +8,7 @@ Este roadmap funciona como una guía para ordenar conceptos, reforzar bases y vi
 
 ## 🌐 Referencia visual
 
-Utilizo este roadmap interactivo como apoyo para tener una visión más amplia del área:
+Tomo este roadmap interactivo como referencia visual para tener una visión más amplia del área:
 
 👉 [Ver roadmap completo](https://roadmap.sh/computer-science?s=658b536d54b5771051480ebe)
 
@@ -51,7 +51,7 @@ Utilizo este roadmap interactivo como apoyo para tener una visión más amplia d
 
 Este documento refleja mi recorrido personal y se irá actualizando a medida que avance en nuevos temas.
 
-No representa una ruta definitiva ni universal, ya que mi enfoque principal de estudio está basado en Codecademy y otros recursos complementarios.
+No representa una ruta definitiva ni universal, sino una referencia complementaria dentro de mi proceso de formación, cuyo eje principal está basado en Codecademy y otros recursos.
 
 ---
 
