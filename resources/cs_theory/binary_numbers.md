@@ -1,25 +1,24 @@
 # Binary Numbers
 
-📄 Basado en mis apuntes teóricos de Computer Science.
+📄 Fuente: cs-theory-udemy-notes.pdf  
+📍 Páginas: 1 - 3  
 
-## Concepto
+---
+
+## 🧠 Concepto
 
 El sistema binario utiliza solo dos valores: `0` y `1`.
 
-## Idea clave
+## 🔑 Idea clave
 
-Las computadoras funcionan con estados simples, como encendido y apagado.
+Las computadoras trabajan con estados simples (encendido/apagado).
 
-## Puntos importantes
+## 📌 Puntos importantes
 
-- Es un sistema en base 2
-- Cada posición representa una potencia de 2
-- Se utiliza para representar datos a nivel bajo
+- Base 2
+- Representación interna de datos
+- Cada posición es una potencia de 2
 
-## Ejemplo
+## 💡 Ejemplo
 
-`1011` en binario = `11` en decimal
-
-## Relación con programación
-
-Permite entender cómo la computadora almacena y procesa la información internamente.
+`1011` → 11 en decimal
