@@ -1,7 +1,7 @@
 # Chapter 1 — Introduction to Programming
 
 🏠 [Back to main repository](../../README.md)
-➡️ [Next Chapter → Control Flow](../chapter2_control_flow/
+➡️ [Next Chapter → Control Flow](../chapter2_control_flow/README.md)
 
 Este capítulo introduce las ideas fundamentales de la programación.
 
