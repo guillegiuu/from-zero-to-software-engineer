@@ -2,6 +2,10 @@
 
 ⬅️ [Back to From Zero to Software Engineer](../../README.md)
 
+---
+
+📘 [Ver teoría del Chapter 2](../../notes/chapter2_control_flow/README.md)
+
 Estos ejemplos acompañan el Chapter 2 y muestran cómo funcionan las decisiones en Python (control flow).
 
 ---
