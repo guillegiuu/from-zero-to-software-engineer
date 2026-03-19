@@ -19,8 +19,12 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](notes/chapter1_introduction/)
 - 💻 [Explorar ejemplos de código](code_examples/chapter1/)
 
+### Chapter 2 — Control Flow
+
+- 📘 [Ver teoría](notes/chapter2_control_flow/)
+-
+
 ### Upcoming Chapters
-- Chapter 2 — Control Flow
 - Chapter 3 — Variables and Data Types
 - Chapter 4 — Functions
 - Chapter 5 — Lists and Dictionaries
@@ -50,5 +54,6 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ## Estado actual
 
-✅ Chapter 1 completado y subido  
-🔜 Próximo paso: Chapter 2
+✅ Chapter 1 completado y subido
+✅ Chapter 2 completado y subido 
+🔜 Próximo paso: Chapter 3
