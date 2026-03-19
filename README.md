@@ -22,7 +22,7 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 ### Chapter 2 — Control Flow
 
 - 📘 [Ver teoría](notes/chapter2_control_flow/)
--
+- 💻 [Explorar ejemplos de código](code_examples/chapter2/)
 
 ### Upcoming Chapters
 - Chapter 3 — Variables and Data Types
