@@ -2,6 +2,10 @@
 
 🏠 [Back to main repository](../../README.md)
 
+---
+
+⬅️ [Previous Chapter → Introduction to Programming](../chapter1_introduction/README.md)
+
 Este capítulo explica cómo los programas toman decisiones usando condiciones.
 
 ---
