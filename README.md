@@ -20,8 +20,8 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 💻 [Explorar ejemplos de código](code_examples/chapter1/)
 
 ### Upcoming Chapters
-- Chapter 2 — Variables and Data Types
-- Chapter 3 — Control Flow
+- Chapter 2 — Control Flow
+- Chapter 3 — Variables and Data Types
 - Chapter 4 — Functions
 - Chapter 5 — Lists and Dictionaries
 - Chapter 6 — Problem Solving Basics
