@@ -1,5 +1,9 @@
 # 🗺️ Computer Science Roadmap
 
+![Progress](https://img.shields.io/badge/progress-in%20development-blue)
+![Focus](https://img.shields.io/badge/focus-computer%20science-green)
+![Level](https://img.shields.io/badge/level-foundations-orange)
+
 Registro de los temas que fui explorando durante mi formación en Computer Science y programación.
 
 Este roadmap me sirve para organizar lo aprendido, reforzar bases y visualizar mi progreso a lo largo del tiempo.
