@@ -9,7 +9,7 @@
 
 Un recorrido visual aprendiendo Computer Science y programación.
 
-Este repositorio documenta mi progreso, combinando conceptos clave, referencia rápida y ejemplos prácticos.
+📌 Este repositorio documenta mi progreso, combinando conceptos clave, referencia rápida y ejemplos prácticos.
 
 ---
 
