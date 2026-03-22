@@ -4,7 +4,7 @@
 
 ---
 
-📘 Teoría: [Chapter 2 — Control Flow](../../notes/chapter2_control_flow/README.md)
+📘 Referencia teórica: [Chapter 2 — Control Flow](../../notes/chapter2_control_flow/README.md)
 
 Estos ejemplos acompañan el Chapter 2 y muestran cómo funcionan las decisiones en Python (control flow).
 
