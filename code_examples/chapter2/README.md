@@ -10,16 +10,28 @@ Estos ejemplos acompañan el Chapter 2 y muestran cómo funcionan las decisiones
 
 ---
 
-## Archivos
+## 📂 Archivos
 
-- `if_basic.py` → Uso básico de if
-- `if_else.py` → Condicionales con else
-- `elif_example.py` → Múltiples condiciones con elif
-- `boolean_logic.py` → Uso de operadores lógicos (and)
-- `comparison_operators.py` → Comparaciones entre valores
+- `if_basic.py` → Uso básico de if  
+- `if_else.py` → Condicionales con else  
+- `elif_example.py` → Múltiples condiciones con elif  
+- `boolean_logic.py` → Uso de operadores lógicos (and)  
+- `comparison_operators.py` → Comparaciones entre valores  
 
 ---
 
-## Objetivo
+## ⚠️ Errores comunes (Control Flow)
 
-Entender cómo los programas toman decisiones usando condiciones simples y claras.
+Estos ejemplos muestran errores típicos que pueden ocurrir al programar:
+
+- `errors_syntax.py` → Error de sintaxis (el código no se ejecuta)  
+- `errors_name.py` → Variable no definida  
+- `errors_type.py` → Tipos de datos incompatibles  
+- `errors_logical.py` → Error lógico (el código funciona pero da mal resultado)  
+
+---
+
+## 🎯 Objetivo
+
+Entender cómo los programas toman decisiones usando condiciones simples y claras,  
+y aprender a detectar errores comunes para mejorar la lógica del código.
