@@ -67,3 +67,31 @@ Este capítulo explica cómo los programas toman decisiones usando condiciones.
 <p align="center">
   <img src="chapter2_page7.jpg" width="500">
 </p>
+
+---
+
+## ⚠️ Common Errors in Control Flow
+
+Understanding common errors is key to writing correct and reliable programs.
+
+<p align="center">
+  <img src="chapter2_page8.jpg" width="500">
+</p>
+
+---
+
+## 🧠 Error Types Explained
+
+<p align="center">
+  <img src="chapter2_page9.jpg" width="500">
+</p>
+
+---
+
+## 🧩 Visual Summary
+
+<p align="center">
+  <img src="chapter2_page10.jpg" width="500">
+</p>
+
+---
