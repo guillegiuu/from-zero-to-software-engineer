@@ -47,12 +47,6 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 
 ---
 
-### 🗺️ Roadmap
-
-- 🧭 [Ver roadmap completo](./roadmap.md)
-
----
-
 ## Objetivo
 
 Construir mi propio libro de Computer Science paso a paso, combinando:
