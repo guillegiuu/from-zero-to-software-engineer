@@ -45,10 +45,3 @@ Estos ejemplos acompañan el Chapter 2 y muestran cómo funcionan las decisiones
 - Usar condiciones claras y simples  
 - Detectar errores comunes y evitarlos  
 
----
-
-## 🚀 Navegación
-
-⬅️ [Chapter 2 — Teoría](../../chapter2/README.md)  
-🏠 [Main Repository](../../README.md)  
-➡️ Próximo capítulo (próximamente)
