@@ -5,7 +5,7 @@
 ![Learning](https://img.shields.io/badge/focus-computer%20science-green)
 ![Level](https://img.shields.io/badge/level-beginner--to--intermediate-orange)
 
-🏠 [Back to main profile](https://github.com/guillegiuu)
+🏠 [Volver al perfil principal](https://github.com/guillegiuu)
 
 Un recorrido visual aprendiendo Computer Science y programación.
 
