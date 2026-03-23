@@ -58,18 +58,6 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ---
 
-## 📚 Recursos adicionales
-
-Durante mi formación realicé un curso completo de Computer Science en Udemy (en inglés), que fui adaptando al español mediante apuntes escritos a mano.
-
-Este material incluye temas clave como Data Structures & Algorithms (DSA), Big O, arrays (estáticos, dinámicos y circulares) y otros conceptos teóricos, acompañados de ejemplos visuales.
-
-Me sirvió como apoyo para reforzar la base conceptual durante el aprendizaje.
-
-📖 [Explorar recursos](./resources/README.md)
-
----
-
 ## Estado actual
 
 ✅ Chapter 1 completado y subido
