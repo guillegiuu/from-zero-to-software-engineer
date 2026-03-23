@@ -9,13 +9,15 @@
 
 Un recorrido visual aprendiendo Computer Science y programación.
 
-📌 Este repositorio documenta mi progreso, combinando conceptos clave, referencia rápida y ejemplos prácticos.
+🚀 Este repositorio combina teoría, práctica y ejemplos claros en Python.
 
 ---
 
 ## Roadmap
 
 Este repositorio refleja mi progreso en Computer Science desde cero.
+
+🧠 Estructura organizada para facilitar un aprendizaje progresivo y claro.
 
 👉 [Ver roadmap completo](./roadmap.md)
 
@@ -30,11 +32,11 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 💻 [Explorar ejemplos de código](code_examples/chapter2/)
 
 ### Upcoming Chapters
-- Chapter 3 — Variables and Data Types
-- Chapter 4 — Functions
-- Chapter 5 — Lists and Dictionaries
-- Chapter 6 — Problem Solving Basics
-- Chapter 7 — Algorithms and Data Structures
+- Chapter 3 — Variables and Data Types  
+- Chapter 4 — Lists and Dictionaries  
+- Chapter 5 — Functions  
+- Chapter 6 — Problem Solving Basics  
+- Chapter 7 — Algorithms and Data Structures  
 
 ---
 
