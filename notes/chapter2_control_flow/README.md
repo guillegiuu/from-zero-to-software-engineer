@@ -4,7 +4,7 @@
 
 ---
 
-⬅️ [Previous Chapter → Introduction to Programming](../chapter1_introduction/README.md)
+[⬅️ Capítulo anterior — Introducción a la Programación](../chapter1_introduction/README.md)
 
 Este capítulo explica cómo los programas toman decisiones usando condiciones.
 
