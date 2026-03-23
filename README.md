@@ -38,11 +38,18 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 
 ---
 
-## Estructura del proyecto
+## 📁 Estructura del proyecto
 
-- `notes/` → reglas de oro y conceptos clave en formato breve
-- `cheat-sheets/` → referencia rápida para repasar sintaxis y estructuras
-- `code_examples/` → ejemplos básicos y claros en Python
+- 📘 [notes/](./notes) → reglas de oro y conceptos clave en formato breve  
+- 📄 [cheat-sheets/](./cheat-sheets) → referencia rápida para repasar sintaxis y estructuras  
+- 💻 [code_examples/](./code_examples) → ejemplos básicos y claros en Python  
+- 📦 [resources/](./resources) → materiales adicionales (PDFs, apuntes externos, etc.)  
+
+---
+
+### 🗺️ Roadmap
+
+- 🧭 [Ver roadmap completo](./roadmap.md)
 
 ---
 
