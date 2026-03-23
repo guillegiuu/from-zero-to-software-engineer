@@ -61,4 +61,4 @@ Es una referencia personal complementaria, alineada principalmente con mi formac
 
 ## 🔗 Navegación
 
-- [Back to repository README](./README.md)
+🏠 [Volver al README del repositorio](./README.md)
