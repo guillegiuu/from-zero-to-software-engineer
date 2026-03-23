@@ -1,0 +1,22 @@
+# 💻 Code Examples
+
+🔙 [Volver al repositorio principal](../README.md)
+
+En esta sección reuní ejemplos prácticos de Python para reforzar los temas vistos en cada capítulo, con una idea simple: pasar de la teoría al código de forma clara y ordenada.
+
+---
+
+## 📂 Capítulos disponibles
+
+| Capítulo | Tema | Acceso |
+|----------|------|--------|
+| 🧠 Capítulo 1 | Introduction to Programming | [Ver ejemplos](./chapter1/README.md) |
+| ⚙️ Capítulo 2 | Control Flow | [Ver ejemplos](./chapter2/README.md) |
+
+---
+
+## 🎯 Objetivo
+
+- Practicar conceptos con código simple y directo  
+- Ver ejemplos cortos, fáciles de seguir  
+- Construir una base sólida antes de avanzar a temas más complejos  
