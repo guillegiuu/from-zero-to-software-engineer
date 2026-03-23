@@ -1,6 +1,6 @@
 # Chapter 2 — Control Flow
 
-🏠 [Back to main repository](../../README.md)
+🏠 [Volver al repositorio principal](../../README.md)
 
 ---
 
