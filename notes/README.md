@@ -1,25 +1,22 @@
-# Notes
+# 📘 Notes — Teoría
 
-Esta sección contiene mis apuntes y resúmenes de Computer Science organizados por capítulo.
+🔙 [Volver al repositorio principal](../README.md)
 
-Incluye:
-
-- Apuntes visuales hechos a mano
-- Conceptos clave explicados de forma clara
-- Resúmenes progresivos de cada tema
+En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoque visual y simplificado para entender los conceptos clave de Computer Science.
 
 ---
 
-## Estructura
+## 📂 Capítulos disponibles
 
-Cada capítulo contiene:
-
-- Apuntes visuales (imágenes)
-- Explicaciones de los conceptos principales
-- Organización paso a paso del aprendizaje
+| Capítulo | Tema | Acceso |
+|----------|------|--------|
+| 🧠 Capítulo 1 | Introduction to Programming | [Ver teoría](./chapter1_introduction/README.md) |
+| ⚙️ Capítulo 2 | Control Flow | [Ver teoría](./chapter2_control_flow/README.md) |
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
-Construir una base sólida en Computer Science documentando el proceso de aprendizaje de forma clara y progresiva.
+- Entender los conceptos fundamentales desde cero  
+- Tener una referencia clara y rápida para repasar  
+- Construir una base sólida antes de pasar a la práctica  
