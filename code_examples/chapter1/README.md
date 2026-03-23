@@ -2,7 +2,7 @@
 
 🔙 [Back to From Zero to Software Engineer](../../README.md)
 
-📘 **Referencia teórica:** [Chapter 1 — Introduction to Programming](../../notes/chapter1 introduction/README.md)
+📘 **Referencia teórica:** [Chapter 1 — Introduction to Programming](../../notes/chapter1_introduction/README.md)
 
 Estos ejemplos acompañan el Chapter 1 y muestran los conceptos básicos en Python.
 
