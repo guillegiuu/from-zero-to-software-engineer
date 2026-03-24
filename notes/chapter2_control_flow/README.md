@@ -72,7 +72,7 @@ Este capítulo explica cómo los programas toman decisiones usando condiciones.
 
 ## ⚠️ Common Errors in Control Flow
 
-Understanding common errors is key to writing correct and reliable programs.
+Comprender los errores comunes es fundamental para escribir programas correctos y fiables.
 
 <p align="center">
   <img src="chapter2_page8.jpg" width="500">
