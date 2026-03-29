@@ -4,6 +4,8 @@
 
 ⬅️ [Capítulo anterior — Control Flow](../chapter2_control_flow/README.md)
 
+➡️ [Capítulo siguiente — Lists](../chapter4_lists/README.md)
+
 ---
 
 ## 🧩 Contenido del capítulo
