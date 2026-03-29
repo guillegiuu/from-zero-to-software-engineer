@@ -36,8 +36,12 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](notes/chapter3_variables/)
 - 💻 [Explorar ejemplos de código](code_examples/chapter3/)
 
+### 📚 Chapter 4 — Lists
+
+- 📘 [Ver teoría](./notes/chapter4_lists/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter4/)
+  
 ### Upcoming Chapters  
-- Chapter 4 — Lists and Dictionaries  
 - Chapter 5 — Functions  
 - Chapter 6 — Problem Solving Basics  
 - Chapter 7 — Algorithms and Data Structures  
@@ -72,4 +76,6 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ✅ Chapter 3 completado y subido
 
-📘 Próximo paso: Chapter 4
+✅ Chapter 4 completado y subido
+
+📘 Próximo paso: Chapter 5
