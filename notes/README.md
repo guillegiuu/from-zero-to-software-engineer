@@ -13,6 +13,7 @@ En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoqu
 | 🧠 Capítulo 1 | Introduction to Programming | [Ver teoría](./chapter1_introduction/README.md) |
 | ⚙️ Capítulo 2 | Control Flow | [Ver teoría](./chapter2_control_flow/README.md) |
 | 🧩 Capítulo 3 | Variables and Data Types | [Ver teoría](./chapter3_variables/README.md) |
+| 📚 Capítulo 4 | Lists | [Ver teoría](./chapter4_lists/README.md) |
 
 ---
 
