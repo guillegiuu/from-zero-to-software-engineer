@@ -14,3 +14,18 @@ Este capítulo explica cómo guardar información en variables y los tipos de da
 
 ## Variables and Data Types
 
+<p align="center">
+  <img src="chapter3_page1.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="chapter3_page2.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="chapter3_page3.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="chapter3_page4.jpg" width="500">
+</p>
