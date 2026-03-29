@@ -2,11 +2,21 @@
 
 🏠 [Volver al repositorio principal](../../README.md)
 
+⬅️ [Capítulo anterior — Introducción a la Programación](../chapter1_introduction/README.md)
+
+➡️ [Capítulo siguiente — Variables and Data Types](../chapter3_variables/README.md)
+
+📌 Este capítulo introduce el control del flujo en un programa.
+Explica cómo tomar decisiones usando condiciones (True / False).
+
 ---
 
-[⬅️ Capítulo anterior — Introducción a la Programación](../chapter1_introduction/README.md)
+## 🛠️ Contenido del capítulo
 
-Este capítulo explica cómo los programas toman decisiones usando condiciones.
+- Qué es el control flow
+- Toma de decisiones en programas
+- Condiciones (True / False)
+- Cómo se ejecutan las instrucciones
 
 ---
 
