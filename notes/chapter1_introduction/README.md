@@ -2,11 +2,21 @@
 
 🏠 [Volver al repositorio principal](../../README.md)
 
----
-
 ➡️ [Capítulo siguiente — Control Flow](../chapter2_control_flow/README.md)
 
-Este capítulo introduce las ideas fundamentales de la programación.
+---
+
+📌 Este capítulo introduce los conceptos básicos de la programación.
+Explica qué es programar, cómo funcionan las instrucciones y la lógica inicial.
+
+---
+
+## 🛠️ Contenido del capítulo
+
+- Qué es la programación
+- Cómo funcionan las instrucciones
+- Conceptos básicos de lógica
+- Primer contacto con Python
 
 ---
 
