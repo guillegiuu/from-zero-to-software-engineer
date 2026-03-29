@@ -2,29 +2,44 @@
 
 🏠 [Volver al repositorio principal](../../README.md)
 
----
-
 ⬅️ [Capítulo anterior — Control Flow](../chapter2_control_flow/README.md)
 
 ---
 
-Este capítulo explica cómo guardar información en variables y los tipos de datos básicos en Python.
-
+## 🧩 Contenido del capítulo
+- Concepto de variable
+- Reglas de nombres
+- Tipos de datos
+- type() y casting
 ---
 
 ## Variables and Data Types
+
+### 🧠 Concept & Key Idea
 
 <p align="center">
   <img src="chapter3_page1.jpg" width="500">
 </p>
 
+---
+
+### 🏷️ Crear Variables & Reglas
+
 <p align="center">
   <img src="chapter3_page2.jpg" width="500">
 </p>
 
+---
+
+### 🔢 Tipos de Datos
+
 <p align="center">
   <img src="chapter3_page3.jpg" width="500">
 </p>
+
+---
+
+### 🔍 type() y Casting
 
 <p align="center">
   <img src="chapter3_page4.jpg" width="500">
