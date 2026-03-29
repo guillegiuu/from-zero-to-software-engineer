@@ -31,8 +31,12 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](notes/chapter2_control_flow/)
 - 💻 [Explorar ejemplos de código](code_examples/chapter2/)
 
-### Upcoming Chapters
-- Chapter 3 — Variables and Data Types  
+### Chapter 3 — Variables and Data Types
+
+- 📘 [Ver teoría](notes/chapter3_variables/)
+- 💻 [Explorar ejemplos de código](code_examples/chapter3/)
+
+### Upcoming Chapters  
 - Chapter 4 — Lists and Dictionaries  
 - Chapter 5 — Functions  
 - Chapter 6 — Problem Solving Basics  
@@ -66,4 +70,6 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ✅ Chapter 2 completado y subido 
 
-🔜 Próximo paso: Chapter 3
+✅ Chapter 3 completado y subido
+
+📘 Próximo paso: Chapter 4
