@@ -11,7 +11,6 @@
 - ¿Qué son los loops?
 - ¿Por qué usar loops?
 - For loops
-- Uso de range
 - While loops
 - Loops infinitos
 - Break
