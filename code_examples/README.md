@@ -14,7 +14,7 @@ En esta sección reuní ejemplos prácticos de Python para reforzar los temas vi
 | ⚙️ Capítulo 2 | Control Flow | [Ver ejemplos](./chapter2/README.md) |
 | 🧩 Capítulo 3 | Variables and Data Types | [Ver ejemplos](./chapter3/README.md) |
 | 📚 Capítulo 4 | Lists | [Ver ejemplos](./chapter4/README.md) |
-
+| 🔁 Capítulo 5 | Loops | [Ver ejemplos](./chapter5/README.md) |
 ---
 
 ## 🎯 Objetivo
