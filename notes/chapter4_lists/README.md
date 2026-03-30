@@ -4,6 +4,8 @@
 
 ⬅️ [Capítulo anterior — Variables and Data Types](../chapter3_variables/README.md)
 
+➡️ [Capítulo siguiente — Loops](../chapter5_loops/README.md)
+
 ---
 
 ## 🛠️ Contenido del capítulo
