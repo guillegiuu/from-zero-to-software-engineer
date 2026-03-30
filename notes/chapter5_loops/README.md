@@ -23,14 +23,14 @@
 
 ## 🔁 Loops
 
-### 🧠 Concepto & Idea clave
+### 🧠 Conceptos básicos
 <p align="center">
   <img src="./chapter5_page1.jpg" width="500">
 </p>
 
 ---
 
-### 🧠 While y control del flujo
+### 🧠 Control de loops
 <p align="center">
   <img src="./chapter5_page2.jpg" width="500">
 </p>
