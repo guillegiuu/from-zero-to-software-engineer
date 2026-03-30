@@ -1,46 +1,43 @@
 # 🔁 Chapter 5 — Loops
 
-[⬅️ Capítulo anterior](../chapter4_lists/README.md)  
-[🏠 Volver a Notes](../README.md)
+🏠 [Volver al repositorio principal](../../README.md)
+
+⬅️ [Capítulo anterior — Lists](../chapter4_lists/README.md)
 
 ---
 
-## 🧠 Concept & Key Idea
+## 🛠️ Contenido del capítulo
 
-En este capítulo se explican los loops en Python: qué son, para qué sirven, los tipos principales (`for` y `while`), el control del flujo con `break` y `continue`, los nested loops y una introducción a list comprehensions.
-
----
-
-## 📝 Apuntes visuales
-
-### Page 1
-*(acá después pegás la imagen o el link de la imagen)*
-
-### Page 2
-*(acá después pegás la imagen o el link de la imagen)*
-
-### Page 3
-*(acá después pegás la imagen o el link de la imagen)*
-
----
-
-## 📌 Temas vistos
-
-- What are loops?
-- Why loops?
+- ¿Qué son los loops?
+- ¿Por qué usar loops?
 - For loops
-- Range
+- Uso de range
 - While loops
-- Infinite loops
+- Loops infinitos
 - Break
 - Continue
-- Nested loops
+- Nested loops (loops anidados)
 - List comprehensions
 
 ---
 
-## ✅ Idea general del capítulo
+## 🔁 Loops
 
-Los loops permiten repetir acciones automáticamente.  
-`for` se usa cuando recorremos una secuencia y `while` cuando dependemos de una condición.  
-También existen herramientas para controlar el flujo del loop y formas más compactas de crear listas, como las list comprehensions.
+### 🧠 Concepto & Idea clave
+<p align="center">
+  <img src="./chapter5_page1.jpg" width="500">
+</p>
+
+---
+
+### 🧠 While y control del flujo
+<p align="center">
+  <img src="./chapter5_page2.jpg" width="500">
+</p>
+
+---
+
+### 🧠 List Comprehensions
+<p align="center">
+  <img src="./chapter5_page3.jpg" width="500">
+</p>
