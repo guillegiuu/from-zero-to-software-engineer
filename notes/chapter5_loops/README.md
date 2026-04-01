@@ -40,3 +40,18 @@
 <p align="center">
   <img src="./chapter5_page3.jpg" width="500">
 </p>
+
+---
+
+### 🔢 Range
+
+• Genera una secuencia de números  
+• Se usa con `for`  
+• No incluye el valor final  
+
+• `range(fin)`  
+• `range(inicio, fin)`  
+• `range(inicio, fin, paso)`  
+
+
+
