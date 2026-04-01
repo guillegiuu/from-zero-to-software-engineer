@@ -17,6 +17,7 @@
 - Continue
 - Nested loops (loops anidados)
 - List comprehensions
+- Range
 
 ---
 
