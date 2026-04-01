@@ -44,14 +44,8 @@
 ---
 
 ### 🔢 Range
-
-• Genera una secuencia de números  
-• Se usa con `for`  
-• No incluye el valor final  
-
-• `range(fin)`  
-• `range(inicio, fin)`  
-• `range(inicio, fin, paso)`  
-
+<p align="center">
+  <img src="./chapter5_page4.jpg" width="500">
+</p>
 
 
