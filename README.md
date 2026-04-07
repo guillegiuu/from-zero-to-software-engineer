@@ -83,12 +83,11 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ## Estado actual
 
-✅ Chapter 1 completado y subido
+✅ Chapter 1 completado y subido  
+✅ Chapter 2 completado y subido  
+✅ Chapter 3 completado y subido  
+✅ Chapter 4 completado y subido  
+✅ Chapter 5 completado y subido  
+✅ Chapter 6 completado y subido  
 
-✅ Chapter 2 completado y subido 
-
-✅ Chapter 3 completado y subido
-
-✅ Chapter 4 completado y subido
-
-📘 Próximo paso: Chapter 5
+➡️ Próximo paso: Chapter 7
