@@ -15,7 +15,7 @@ En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoqu
 | 🧩 Capítulo 3 | Variables and Data Types | [Ver teoría](./chapter3_variables/README.md) |
 | 📚 Capítulo 4 | Lists | [Ver teoría](./chapter4_lists/README.md) |
 | 🔁 Capítulo 5 | Loops | [Ver teoría](./chapter5_loops/README.md) |
-
+| 🧩 Capítulo 6 | Functions | [Ver teoría](./chapter6_functions/README.md) |
 ---
 
 ## 🎯 Objetivo
