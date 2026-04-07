@@ -59,8 +59,12 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](./notes/chapter5_loops/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter5/)
 
+### 🧩 Chapter 6 — Functions
+
+- 📘 [Ver teoría](./notes/chapter6_functions/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter6/)
+
 ### Upcoming Chapters    
-- Chapter 6 — Problem Solving Basics  
 - Chapter 7 — Algorithms and Data Structures  
 
 
