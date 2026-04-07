@@ -4,6 +4,8 @@
 
 ⬅️ [Capítulo anterior — Lists](../chapter4_lists/README.md)
 
+➡️ [Capítulo siguiente — Functions](../chapter6_functions/README.md)
+
 ---
 
 ## 🛠️ Contenido del capítulo
