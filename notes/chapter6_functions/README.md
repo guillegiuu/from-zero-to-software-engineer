@@ -2,7 +2,9 @@
 
 🏠 [Volver al repositorio principal](../../README.md)
 
-📂 [Capítulo anterior — Loops](../chapter5_loops/README.md)
+⬅️ [Capítulo anterior — Loops](../chapter5_loops/README.md)
+
+➡️ [Capítulo siguiente — CLI](../chapter7_cli/README.md)
 
 ---
 
