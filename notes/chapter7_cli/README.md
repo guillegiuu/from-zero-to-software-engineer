@@ -2,7 +2,7 @@
 
 🏠 [Volver al repositorio principal](../../README.md)
 
-📂 [Capítulo anterior — Functions](../chapter6_functions/README.md)
+⬅️ [Capítulo anterior — Functions](../chapter6_functions/README.md)
 
 ---
 
