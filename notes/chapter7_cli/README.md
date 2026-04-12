@@ -24,28 +24,28 @@
 
 ## 🔹 CLI Navigation
 
-### 🧠 ¿Qué es la línea de comandos?
+### 🧠 Filesystem y comandos básicos
 <p align="center">
   <img src="./chapter7_page1.jpg" width="500">
 </p>
 
 ---
 
-### 📁 Filesystem y navegación
+### 📂 Navegación y creación de archivos/carpetas
 <p align="center">
   <img src="./chapter7_page2.jpg" width="500">
 </p>
 
 ---
 
-### ⚙️ Comandos básicos
+### ⚠️ Errores comunes + regla de oro + mini quiz
 <p align="center">
   <img src="./chapter7_page3.jpg" width="500">
 </p>
 
 ---
 
-### ✅ Review + Quiz
+### 🧩 Estructura del filesystem (ASCII)
 <p align="center">
   <img src="./chapter7_page4.jpg" width="500">
 </p>
