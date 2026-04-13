@@ -4,10 +4,7 @@
 
 ➡️ [Capítulo siguiente — Control Flow](../chapter2_control_flow/README.md)
 
----
-
-📌 Este capítulo introduce los conceptos básicos de la programación.
-Explica qué es programar, cómo funcionan las instrucciones y la lógica inicial.
+💻 [Ver ejemplos prácticos](../../code_examples/chapter1/README.md)
 
 ---
 
