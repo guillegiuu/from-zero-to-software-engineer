@@ -64,8 +64,15 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](./notes/chapter6_functions/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter6/)
 
+### 💻 Chapter 7 — Command Line Interface (CLI)
+
+- 📘 [Ver teoría](./notes/chapter7_cli/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter7/)
+
+
 ### Upcoming Chapters    
-- Chapter 7 — Algorithms and Data Structures  
+- Chapter 8 — Git & Version Control
+- Chapter 9 — Data Structures (Linked Lists, etc.)  
 
 
 ---
