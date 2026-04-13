@@ -6,6 +6,8 @@
 
 ➡️ [Capítulo siguiente — CLI](../chapter7_cli/README.md)
 
+💻 [Ver ejemplos prácticos](../../code_examples/chapter6/README.md)
+
 ---
 
 ## 🛠️ Contenido del capítulo
