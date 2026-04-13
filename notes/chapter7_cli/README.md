@@ -1,4 +1,4 @@
-# 🖥️ Chapter 7 — Command Line Interface (CLI)
+# Chapter 7 — Command Line Interface (CLI)
 
 🏠 [Volver al repositorio principal](../../README.md)
 
