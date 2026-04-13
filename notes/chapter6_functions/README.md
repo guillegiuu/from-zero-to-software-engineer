@@ -1,4 +1,4 @@
-# 📘 Chapter 6 — Functions
+# Chapter 6 — Functions
 
 🏠 [Volver al repositorio principal](../../README.md)
 
