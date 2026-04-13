@@ -34,17 +34,17 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 
 ## 📚 Chapters
 
-### Chapter 1 — Introduction to Programming
+### 🧠 Chapter 1 — Introduction to Programming
 
 - 📘 [Ver teoría](notes/chapter1_introduction/)
 - 💻 [Explorar ejemplos de código](code_examples/chapter1/)
 
-### Chapter 2 — Control Flow
+### 🔀 Chapter 2 — Control Flow
 
 - 📘 [Ver teoría](notes/chapter2_control_flow/)
 - 💻 [Explorar ejemplos de código](code_examples/chapter2/)
 
-### Chapter 3 — Variables and Data Types
+### 📊 Chapter 3 — Variables and Data Types
 
 - 📘 [Ver teoría](notes/chapter3_variables/)
 - 💻 [Explorar ejemplos de código](code_examples/chapter3/)
@@ -70,14 +70,15 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 💻 [Explorar ejemplos de código](./code_examples/chapter7/)
 
 
-### Upcoming Chapters    
+## 🔮 Upcoming Chapters 
+
 - Chapter 8 — Git & Version Control
 - Chapter 9 — Data Structures (Linked Lists, etc.)  
 
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
 Construir mi propio libro de Computer Science paso a paso, combinando:
 
@@ -88,7 +89,7 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ---
 
-## Estado actual
+## 📊 Estado actual
 
 ✅ Chapter 1 completado y subido  
 ✅ Chapter 2 completado y subido  
@@ -96,5 +97,6 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 ✅ Chapter 4 completado y subido  
 ✅ Chapter 5 completado y subido  
 ✅ Chapter 6 completado y subido  
+✅ Chapter 7 completado y subido  
 
-➡️ Próximo paso: Chapter 7
+➡️ Próximo paso: Chapter 8 — Git & Version Control
