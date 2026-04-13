@@ -6,6 +6,8 @@
 
 ➡️ [Capítulo siguiente — Lists](../chapter4_lists/README.md)
 
+💻 [Ver ejemplos prácticos](../../code_examples/chapter3/README.md)
+
 ---
 
 ## 🧩 Contenido del capítulo
