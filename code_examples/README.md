@@ -16,6 +16,7 @@ En esta sección reuní ejemplos prácticos de Python para reforzar los temas vi
 | 📚 Capítulo 4 | Lists | [Ver ejemplos](./chapter4/README.md) |
 | 🔁 Capítulo 5 | Loops | [Ver ejemplos](./chapter5/README.md) |
 | 🧩 Capítulo 6 | Functions | [Ver ejemplos](./chapter6/README.md) |
+| 💻 Capítulo 7 | Command Line Interface (CLI) | [Ver ejemplos](./chapter7/README.md) |
 ---
 
 ## 🎯 Objetivo
