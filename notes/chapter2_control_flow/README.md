@@ -6,8 +6,7 @@
 
 ➡️ [Capítulo siguiente — Variables and Data Types](../chapter3_variables/README.md)
 
-📌 Este capítulo introduce el control del flujo en un programa.
-Explica cómo tomar decisiones usando condiciones (True / False).
+💻 [Ver ejemplos prácticos](../../code_examples/chapter2/README.md)
 
 ---
 
