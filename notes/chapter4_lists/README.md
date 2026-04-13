@@ -6,6 +6,8 @@
 
 ➡️ [Capítulo siguiente — Loops](../chapter5_loops/README.md)
 
+💻 [Ver ejemplos prácticos](../../code_examples/chapter4/README.md)
+
 ---
 
 ## 🛠️ Contenido del capítulo
