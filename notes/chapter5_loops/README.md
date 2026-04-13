@@ -1,4 +1,4 @@
-# 🔁 Chapter 5 — Loops
+# Chapter 5 — Loops
 
 🏠 [Volver al repositorio principal](../../README.md)
 
