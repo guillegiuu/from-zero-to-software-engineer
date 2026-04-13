@@ -1,4 +1,3 @@
-# Chapter 7 - CLI
 # Archivo: basic_navigation.py
 
 # --------------------------------------------------
