@@ -117,4 +117,4 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 ✅ Chapter 9 completado y subido  
 ✅ Chapter 10 completado y subido  
 
-🚧 Próximo paso: Chapter 11 — String Methods
+🚧 Próximo paso: Chapter 11 — Modules
