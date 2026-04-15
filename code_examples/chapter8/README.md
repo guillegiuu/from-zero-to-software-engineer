@@ -1,31 +1,38 @@
-# Chapter 8 — Git & Version Control (Code Examples)
+# 💾 Chapter 8 — Code Examples (Git & Version Control)
 
-🏠 [Volver al repositorio principal](../../README.md)
+🏠 [Back to From Zero to Software Engineer](../../README.md)
 
-⬅️ [Capítulo anterior — CLI](../chapter7/README.md)
-
-📚 [Ver teoría](../../notes/chapter8_git/README.md)
+📘 **Referencia teórica:** [Chapter 8 — Git & Version Control](../../notes/chapter8_git/README.md)
 
 ---
 
-## 🧠 Objetivo
+Estos ejemplos acompañan el Chapter 8 y muestran el flujo básico de Git, explicados con comentarios en formato Python para mantener consistencia en el repositorio.
+
+---
+
+## 📂 Archivos
+
+| Archivo | Descripción |
+|--------|-------------|
+| [git_workflow.py](./git_workflow.py) | Simulación del flujo Working Directory → Staging → Repository |
+| [git_commands.py](./git_commands.py) | Ejemplos básicos de `git init`, `status`, `add`, `commit`, `log` |
+
+---
+
+## ⚠️ Errores comunes
+
+| Archivo | Problema |
+|--------|----------|
+| [missing_add.py](./missing_add.py) | Hacer commit sin usar `git add` |
+| [no_commit.py](./no_commit.py) | Olvidarse de hacer commit después de cambios |
+
+---
+
+## 🎯 Objetivo
 
 - Entender el flujo básico de Git
-- Practicar comandos clave
-- Simular un workflow real
-
----
-
-## 📂 Ejemplos incluidos
-
-- `git_workflow_example.py`
-- `git_commands_simulation.py`
-
----
-
-## 🚀 Nota
-
-Estos ejemplos simulan el uso de Git para entender el flujo:
-Working Directory → Staging → Repository
+- Reconocer los comandos principales
+- Evitar errores comunes en el workflow
+- Pensar Git como sistema de versiones (snapshots)
 
 ---
