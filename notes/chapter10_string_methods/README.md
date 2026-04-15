@@ -4,6 +4,8 @@
 
 ⬅️ [Capítulo anterior — Strings](../chapter9_strings/README.md)
 
+➡️ [Capítulo siguiente — Modules](../chapter11_modules/README.md)
+
 💻 [Ver ejemplos prácticos](../../code_examples/chapter10/README.md)
 
 ---
