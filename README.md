@@ -80,9 +80,7 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 💻 [Explorar ejemplos de código](./code_examples/chapter9/)
 
 ## 🔮 Upcoming Chapters
-- Chapter 10 — Queues
-- Chapter 11 — Stacks
-- Chapter 12 — HashMaps  
+- Chapter 10 — String Methods
 
 ---
 
@@ -105,7 +103,8 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 ✅ Chapter 4 completado y subido  
 ✅ Chapter 5 completado y subido  
 ✅ Chapter 6 completado y subido  
-✅ Chapter 7 completado y subido
-✅ Chapter 8 completado y subido 
+✅ Chapter 7 completado y subido  
+✅ Chapter 8 completado y subido  
+✅ Chapter 9 completado y subido  
 
-🚧 Próximo paso: Chapter 9 — Data Structures
+🚧 Próximo paso: Chapter 10 — String Methods
