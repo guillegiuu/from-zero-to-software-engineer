@@ -79,8 +79,17 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](./notes/chapter9_strings/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter9/)
 
+### 🧰 Chapter 10 — String Methods
+
+- 📘 [Ver teoría](./notes/chapter10_string_methods/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter10/)
+
 ## 🔮 Upcoming Chapters
-- Chapter 10 — String Methods
+- Chapter 11 — Modules
+- Chapter 12 — Dictionaries
+- Chapter 13 — Files
+- Chapter 14 — Object-Oriented Programming
+- Chapter 15 — Code Challenges II (Optional)
 
 ---
 
@@ -106,5 +115,6 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 ✅ Chapter 7 completado y subido  
 ✅ Chapter 8 completado y subido  
 ✅ Chapter 9 completado y subido  
+✅ Chapter 10 completado y subido  
 
-🚧 Próximo paso: Chapter 10 — String Methods
+🚧 Próximo paso: Chapter 11 — String Methods
