@@ -35,14 +35,14 @@
 
 ---
 
-## 🧠 Quiz — Aplicación (Page 6)
+## 🧠 Quiz — Aplicación (Page 3)
 <p align="center">
   <img src="./chapter9_page6.jpg" width="500">
 </p>
 
 ---
 
-## 🧠 Quiz — DSA (Page 7)
+## 🧠 Quiz — DSA (Page 4)
 <p align="center">
   <img src="./chapter9_page7.jpg" width="500">
 </p>
