@@ -69,12 +69,17 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](./notes/chapter7_cli/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter7/)
 
+### 💾 Chapter 8 — Git & Version Control
 
-## 🔮 Upcoming Chapters 
+- 📘 [Ver teoría](./notes/chapter8_git/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter8/)
 
-- Chapter 8 — Git & Version Control
-- Chapter 9 — Data Structures (Linked Lists, etc.)  
+## 🔮 Upcoming Chapters
 
+- Chapter 9 — Data Structures (Linked Lists)
+- Chapter 10 — Queues
+- Chapter 11 — Stacks
+- Chapter 12 — HashMaps  
 
 ---
 
@@ -97,6 +102,7 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 ✅ Chapter 4 completado y subido  
 ✅ Chapter 5 completado y subido  
 ✅ Chapter 6 completado y subido  
-✅ Chapter 7 completado y subido  
+✅ Chapter 7 completado y subido
+✅ Chapter 8 completado y subido 
 
-➡️ Próximo paso: Chapter 8 — Git & Version Control
+🚧 Próximo paso: Chapter 9 — Data Structures
