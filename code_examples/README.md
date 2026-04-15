@@ -19,6 +19,7 @@ En esta sección reuní ejemplos prácticos de Python para reforzar los temas vi
 | 💻 Capítulo 7 | Command Line Interface (CLI) | [Ver ejemplos](./chapter7/README.md) |
 | 💾 Capítulo 8 | Git & Version Control | [Ver ejemplos](./chapter8/README.md) |
 | 🔤 Capítulo 9 | Strings | [Ver ejemplos](./chapter9/README.md) |
+| 🧰 Capítulo 10 | String Methods | [Ver ejemplos](./chapter10/README.md) |
 
 ---
 
