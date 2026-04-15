@@ -110,6 +110,10 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ## 📊 Estado actual
 
+**Progreso:** ~20% completado (fundamentos de Python)
+
+[████░░░░░░░░░░░░░░░░] 20%
+
 | Capítulo | Teoría | Práctica |
 |----------|--------|----------|
 | Chapter 1 | [📘](./notes/chapter1_introduction/) | [💻](./code_examples/chapter1/) |
@@ -128,4 +132,3 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 📝 Próximo paso: Chapter 12 — Dictionaries
 
-📝 Próximo paso: Chapter 12 — Dictionaries
