@@ -17,6 +17,8 @@ En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoqu
 | 🔁 Capítulo 5 | Loops | [Ver teoría](./chapter5_loops/README.md) |
 | 🧩 Capítulo 6 | Functions | [Ver teoría](./chapter6_functions/README.md) |
 | 💻 Capítulo 7 | Command Line Interface (CLI) | [Ver teoría](./chapter7_cli/README.md) |
+💾 Capítulo 8 | Git & Version Control | [Ver teoría](./chapter8_git/README.md) |
+
 ---
 
 ## 🎯 Objetivo
