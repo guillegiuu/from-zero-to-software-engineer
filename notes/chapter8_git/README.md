@@ -4,7 +4,7 @@
 
 ⬅️ [Capítulo anterior — Command Line Interface (CLI)](../chapter7_cli/README.md)
 
-➡️ [Capítulo siguiente — String Methods](../chapter10_string_methods/README.md)
+➡️ [Capítulo siguiente — Strings](../chapter9_strings/README.md)
 
 💻 [Ver ejemplos prácticos](../../code_examples/chapter8/README.md)
 
