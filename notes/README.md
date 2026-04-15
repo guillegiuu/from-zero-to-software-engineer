@@ -19,6 +19,7 @@ En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoqu
 | 🗂 Capítulo 7 | Command Line Interface (CLI) | [Ver teoría](./chapter7_cli/README.md) |
 | 📄 Capítulo 8 | Git & Version Control | [Ver teoría](./chapter8_git/README.md) |
 | 🔤 Capítulo 9 | Strings | [Ver teoría](./chapter9_strings/README.md) |
+| 🧰 Capítulo 10 | String Methods | [Ver teoría](./chapter10_string_methods/README.md) |
 
 ---
 
