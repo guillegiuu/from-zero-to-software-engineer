@@ -110,9 +110,20 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ## 📊 Estado actual
 
+### 📍 Fase actual (Codecademy)
+
+- ✅ Python Fundamentals (Intro + Data Structures básicas)
+- ⏳ Data Structures (Linked Lists, Stacks, Queues)
+- ⏳ Algorithms
+- ⏳ Trees & Graphs
+- ⏳ SQL / Data Analysis
+
+---
+
 ### 📈 Progreso del roadmap
 
-**Progreso:** ~20% completado — Fundamentos de Python
+**Progreso global:** ~20% completado  
+**Enfoque actual:** Fundamentos + primera pasada de DSA
 
 [████░░░░░░░░░░░░░░░░] 20%
 
