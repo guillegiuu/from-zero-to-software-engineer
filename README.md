@@ -110,7 +110,9 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ## 📊 Estado actual
 
-**Progreso:** ~20% completado (fundamentos de Python)
+### 📈 Progreso del roadmap
+
+**Progreso:** ~20% completado — Fundamentos de Python
 
 [████░░░░░░░░░░░░░░░░] 20%
 
