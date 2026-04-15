@@ -29,14 +29,14 @@
 
 ---
 
-## 🔧 Import + Namespaces (Page 2)
+## 🔧 Random + Namespaces + Decimal (Page 2)
 <p align="center">
   <img src="./chapter11_page2.jpg" width="500">
 </p>
 
 ---
 
-## 📚 Módulos útiles (Page 3)
+## 📂 Files + Scope + Datetime + Pipenv (Page 3)
 <p align="center">
   <img src="./chapter11_page3.jpg" width="500">
 </p>
