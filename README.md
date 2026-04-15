@@ -20,6 +20,7 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 🧠 Estructura organizada para facilitar un aprendizaje progresivo y claro.
 
 👉 [Ver roadmap completo](./roadmap.md)
+📊 [Ver progreso actual](#-estado-actual)
 
 ---
 
