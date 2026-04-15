@@ -74,9 +74,12 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](./notes/chapter8_git/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter8/)
 
-## 🔮 Upcoming Chapters
+### 🔤 Chapter 9 — Strings
 
-- Chapter 9 — Data Structures (Linked Lists)
+- 📘 [Ver teoría](./notes/chapter9_strings/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter9/)
+
+## 🔮 Upcoming Chapters
 - Chapter 10 — Queues
 - Chapter 11 — Stacks
 - Chapter 12 — HashMaps  
