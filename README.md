@@ -110,7 +110,7 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ## 📊 Estado actual
 
-### 📍 Fase actual (Codecademy)
+### 📍 Fase actual
 
 - ✅ Python Fundamentals (Intro + Data Structures básicas)
 - ⏳ Data Structures (Linked Lists, Stacks, Queues)
