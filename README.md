@@ -110,16 +110,22 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ## 📊 Estado actual
 
-✅ Chapter 1 completado y subido  
-✅ Chapter 2 completado y subido  
-✅ Chapter 3 completado y subido  
-✅ Chapter 4 completado y subido  
-✅ Chapter 5 completado y subido  
-✅ Chapter 6 completado y subido  
-✅ Chapter 7 completado y subido  
-✅ Chapter 8 completado y subido  
-✅ Chapter 9 completado y subido  
-✅ Chapter 10 completado y subido
-✅ Chapter 11 completado y subido
+| Capítulo | Teoría | Práctica |
+|----------|--------|----------|
+| Chapter 1 | [📘](./notes/chapter1_introduction/) | [💻](./code_examples/chapter1/) |
+| Chapter 2 | [📘](./notes/chapter2_control_flow/) | [💻](./code_examples/chapter2/) |
+| Chapter 3 | [📘](./notes/chapter3_variables/) | [💻](./code_examples/chapter3/) |
+| Chapter 4 | [📘](./notes/chapter4_lists/) | [💻](./code_examples/chapter4/) |
+| Chapter 5 | [📘](./notes/chapter5_loops/) | [💻](./code_examples/chapter5/) |
+| Chapter 6 | [📘](./notes/chapter6_functions/) | [💻](./code_examples/chapter6/) |
+| Chapter 7 | [📘](./notes/chapter7_cli/) | [💻](./code_examples/chapter7/) |
+| Chapter 8 | [📘](./notes/chapter8_git/) | [💻](./code_examples/chapter8/) |
+| Chapter 9 | [📘](./notes/chapter9_strings/) | [💻](./code_examples/chapter9/) |
+| Chapter 10 | [📘](./notes/chapter10_string_methods/) | [💻](./code_examples/chapter10/) |
+| Chapter 11 | [📘](./notes/chapter11_modules/) | [💻](./code_examples/chapter11/) |
+
+---
+
+📝 Próximo paso: Chapter 12 — Dictionaries
 
 📝 Próximo paso: Chapter 12 — Dictionaries
