@@ -1,9 +1,9 @@
 # 🧠 Challenge 05: Divisible By Ten
 
 📁 [Volver a Control Flow (Basic)](../README.md)  
-🏠 [Volver a Challenges](../../README.md)
 
-💻 [Ver código](../solutions/challenge_05.py)  
+💻 [Ver código](../solutions/challenge_05.py) 
+
 📸 [Ver ejercicio](../images/control_flow_05.JPG)
 
 ---
