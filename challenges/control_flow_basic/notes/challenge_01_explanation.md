@@ -1,6 +1,6 @@
 # 🧠 Challenge 01: Not Sum To Ten
 
-🏠 [Volver a challenges](../README.md)
+📁 [Volver a Control Flow (Basic)](../README.md)
 
 💻 [Ver código](../solutions/challenge_01.py)
 
