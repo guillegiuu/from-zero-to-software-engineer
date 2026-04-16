@@ -1,8 +1,10 @@
 🧠 Challenge 03: Large Power
 
-🏠 Volver a Control Flow (Basic)
-📄 Ver código
-🖼️ Ver ejercicio
+🏠 [Volver a Control Flow (Basic)](../README.md)  
+
+💻 [Ver código](../solutions/challenge_03.py)  
+
+🖼️ [Ver ejercicio](../images/control_flow_03.JPG)
 
 ---
 
