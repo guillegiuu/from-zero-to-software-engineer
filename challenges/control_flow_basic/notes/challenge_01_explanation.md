@@ -1,5 +1,13 @@
 # 🧠 Challenge 01: Not Sum To Ten
 
+🏠 [Volver a challenges](../README.md)
+
+💻 [Ver código](../solutions/challenge_01.py)
+
+📸 [Ver ejercicio](../images/control_flow_01.png)
+
+---
+
 ## 📌 Problema
 Dado `num1` y `num2`, verificar si su suma **NO es igual a 10** y guardar el resultado en `not_ten`.
 
