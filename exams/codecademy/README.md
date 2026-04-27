@@ -8,7 +8,7 @@ Sección dedicada a exámenes realizados en Codecademy dentro del recorrido de C
 
 | Módulo | Tema | Acceso |
 |---|---|---|
-| 🧠 Algorithms | Algoritmos, Big-O, sorting y dynamic programming | [Ver módulo](./algorithms/README.md) |
+| 🧠 Algorithms | Algoritmos, Big-O, sorting y dynamic programming | [Ver módulo](./algorithms/) |
 
 ---
 
@@ -20,4 +20,4 @@ Organizar exámenes, ejercicios prácticos y recursos de estudio para reforzar t
 
 ## 🧭 Navegación
 
-🏠 [Back to From Zero to Software Engineer](../README.md)
+🏠 [Volver al repositorio principal](../../README.md)
