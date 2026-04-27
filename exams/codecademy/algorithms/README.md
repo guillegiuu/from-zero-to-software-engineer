@@ -2,6 +2,10 @@
 
 Este módulo contiene la resolución práctica del examen de algoritmos de Codecademy.
 
+🔙 [Volver a Codecademy](../README.md)  
+
+🏠 [Volver al repositorio principal](../../../../README.md)
+
 ---
 
 ## 📊 Resultados
