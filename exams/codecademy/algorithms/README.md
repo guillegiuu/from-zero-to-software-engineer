@@ -4,7 +4,7 @@ Este módulo contiene la resolución práctica del examen de algoritmos de Codec
 
 🔙 [Volver a Codecademy](../README.md)  
 
-🏠 [Volver al repositorio principal](../../../../README.md)
+🏠 [Volver al repositorio principal](../../../README.md)
 
 ---
 
