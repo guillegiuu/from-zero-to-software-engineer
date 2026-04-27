@@ -19,6 +19,44 @@ Este módulo contiene la resolución práctica del examen de algoritmos de Codec
 
 ---
 
+## 📚 Detalle de ejercicios
+
+| Nº | Tema | Enunciado | Código |
+|---|---|---|---|
+| 1 | 🔀 Merge Sort | [Ver](images/01_Ejercicio_MergeSort.png) | `merge_sort.py` |
+| 2 | ⚡ Quick Sort | [Ver](images/02_Ejercicio_QuickSort.png) | `quick_sort.py` |
+| 3 | 🔢 Fibonacci | [Ver](images/03_Ejercicio_Fibonacci.png) | `memo_fibonacci.py` |
+
+---
+
+## 🖼️ Enunciados del examen
+
+👉 Las siguientes capturas muestran los enunciados de cada ejercicio.
+
+### 🔀 Merge Sort
+
+<p align="center">
+  <img src="images/01_Ejercicio_MergeSort.png" width="650">
+</p>
+
+---
+
+### ⚡ Quick Sort
+
+<p align="center">
+  <img src="images/02_Ejercicio_QuickSort.png" width="650">
+</p>
+
+---
+
+### 🔢 Fibonacci
+
+<p align="center">
+  <img src="images/03_Ejercicio_Fibonacci.png" width="650">
+</p>
+
+---
+
 ## 🧩 Conceptos aplicados
 
 - 🔁 Recursión  
