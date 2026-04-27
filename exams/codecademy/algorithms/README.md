@@ -11,7 +11,7 @@ Este módulo contiene la resolución práctica del examen de algoritmos de Codec
 
 ---
 
-## 🚀 Ejercicios resueltos
+## 🚀 Algoritmos implementados
 
 - 🔀 **Merge Sort**
 - ⚡ **Quick Sort**
