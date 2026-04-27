@@ -2,6 +2,8 @@
 
 Material complementario para reforzar la teoría del examen de algoritmos.
 
+🔙 [Volver a Algorithms](../README.md)
+
 ---
 
 ## 📘 Resumen teórico
