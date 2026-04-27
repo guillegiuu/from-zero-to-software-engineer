@@ -23,9 +23,9 @@ Este módulo contiene la resolución práctica del examen de algoritmos de Codec
 
 | Nº | Tema | Enunciado | Código |
 |---|---|---|---|
-| 1 | 🔀 Merge Sort | [Ver](images/01_Ejercicio_MergeSort.png) | `merge_sort.py` |
-| 2 | ⚡ Quick Sort | [Ver](images/02_Ejercicio_QuickSort.png) | `quick_sort.py` |
-| 3 | 🔢 Fibonacci | [Ver](images/03_Ejercicio_Fibonacci.png) | `memo_fibonacci.py` |
+| 1 | 🔀 Merge Sort | [Ver enunciado](images/01_Ejercicio_MergeSort.png) | [Abrir código](merge_sort.py) |
+| 2 | ⚡ Quick Sort | [Ver enunciado](images/02_Ejercicio_QuickSort.png) | [Abrir código](quick_sort.py) |
+| 3 | 🔢 Fibonacci | [Ver enunciado](images/03_Ejercicio_Fibonacci.png) | [Abrir código](memo_fibonacci.py) |
 
 ---
 
