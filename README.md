@@ -30,8 +30,9 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [notes/](./notes) → teoría y apuntes visuales por capítulo  
 - 📄 [cheat-sheets/](./cheat-sheets) → referencia rápida para repasar sintaxis y estructuras  
 - 💻 [code_examples/](./code_examples) → ejemplos básicos y claros en Python  
-- 📦 [resources/](./resources) → materiales adicionales (PDFs, apuntes externos, etc.)
-- 🧠 [challenges/](./challenges) → práctica con ejercicios y resolución de problemas (Code Challenges)
+- 📦 [resources/](./resources) → materiales adicionales (PDFs, apuntes externos, etc.)  
+- 🧠 [challenges/](./challenges) → práctica con ejercicios y resolución de problemas (Code Challenges)  
+- 🧪 [exams/](./exams) → evaluaciones reales y práctica tipo examen (Codecademy, etc.)
 
 ---
 
