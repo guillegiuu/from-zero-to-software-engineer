@@ -2,6 +2,8 @@
 
 Sección dedicada a exámenes realizados en Codecademy dentro del recorrido de Computer Science.
 
+🔙 [Volver a Exams](../README.md)
+
 ---
 
 ## 📂 Módulos disponibles
