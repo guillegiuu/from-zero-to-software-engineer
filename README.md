@@ -93,7 +93,7 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](./notes/chapter11_modules/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter11/)
 
-## 🧠 Chapter 12 — Dictionaries
+### 🧠 Chapter 12 — Dictionaries
 
 - 📘 [Ver teoría](./notes/chapter12_dictionaries/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter12/)
