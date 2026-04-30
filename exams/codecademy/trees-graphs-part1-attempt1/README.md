@@ -20,6 +20,8 @@ Este examen forma parte del módulo **Trees and Graphs** dentro del path de Comp
 
 Se trata de una evaluación **teórica con aplicación práctica**, donde no alcanza con memorizar conceptos: es necesario interpretar correctamente la lógica de los algoritmos.
 
+🏠 [Volver al repositorio principal](../../../README.md)
+
 ---
 
 ## ⚠️ Dificultad y Observaciones
