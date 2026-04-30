@@ -4,7 +4,7 @@
 
 ⬅️ [Capítulo anterior — Modules](../chapter11_modules/README.md)
 
-➡️ [Capítulo siguiente — (próximo)](#)
+💻 [Ver ejemplos prácticos](../../code_examples/chapter12/README.md)
 
 ---
 
