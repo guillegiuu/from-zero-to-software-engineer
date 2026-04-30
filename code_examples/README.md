@@ -21,6 +21,7 @@ En esta sección reuní ejemplos prácticos de Python para reforzar los temas vi
 | 🔤 Capítulo 9 | Strings | [Ver ejemplos](./chapter9/README.md) |
 | 🧰 Capítulo 10 | String Methods | [Ver ejemplos](./chapter10/README.md) |
 | 📦 Capítulo 11 | Modules | [Ver ejemplos](./chapter11/README.md) |
+| 🧠 Capítulo 12 | Dictionaries | [Ver ejemplos](./chapter12/README.md) |
 
 
 ---
