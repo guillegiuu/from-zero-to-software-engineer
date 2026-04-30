@@ -134,7 +134,7 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 **Progreso global:** ~25% completado
 **Enfoque actual:** Fundamentos + primera pasada de DSA
 
-[████░░░░░░░░░░░░░░░░] 20%
+[███████░░░░░░░░░░░] 25%
 
 | Capítulo | Teoría | Práctica |
 |----------|--------|----------|
