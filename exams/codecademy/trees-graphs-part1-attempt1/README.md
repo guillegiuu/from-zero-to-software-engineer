@@ -1,10 +1,16 @@
 # 🌳 Trees & Graphs — Exam Part 1 (Attempt #1)
 
+![Overview](./images/trees-graphs-exam-part1-attempt1-overview.png)
+
+> Resultado del primer intento del examen (Codecademy)
+
+---
+
 ## 📊 Resultado
 
 - Score: **60%**
 - Resultado: ❌ No aprobado
-- Correctas: 6 / 10
+- Correctas: **6 / 10**
 
 ---
 
@@ -12,69 +18,74 @@
 
 Este examen forma parte del módulo **Trees and Graphs** dentro del path de Computer Science en Codecademy.
 
-Se trata de una evaluación principalmente **teórica con aplicación práctica**, donde no alcanza con memorizar conceptos: es necesario interpretar correctamente la lógica detrás de cada algoritmo.
+Se trata de una evaluación **teórica con aplicación práctica**, donde no alcanza con memorizar conceptos: es necesario interpretar correctamente la lógica de los algoritmos.
 
 ---
 
 ## ⚠️ Dificultad y Observaciones
 
-Este examen resultó más exigente de lo esperado.
+El examen resultó más exigente de lo esperado.
 
 Aunque los conceptos estaban estudiados (DFS, BFS, Binary Search, Dijkstra, A*), las preguntas requerían:
 
-- Interpretar código en lugar de solo reconocer teoría
-- Diferenciar entre recorrido vs camino (`visited` vs `path`)
-- Entender la intención del algoritmo, no solo su definición
-- Evitar errores sutiles en condiciones (ej: `left > right` en binary search)
-
-👉 Conclusión importante:
-
-> La teoría por sí sola no alcanza.  
-> La práctica por sí sola tampoco.  
-> Es necesario combinar ambas y entender realmente lo que está pasando.
+- Interpretar código en lugar de reconocer teoría
+- Diferenciar recorrido vs camino (`visited` vs `path`)
+- Entender el comportamiento real del algoritmo
+- Detectar errores sutiles en condiciones
 
 ---
 
 ## ❌ Errores principales
 
-Durante este intento, los errores estuvieron concentrados en:
-
-- 🔁 Confusión entre DFS y BFS
-  - DFS → primer camino encontrado (no necesariamente el más corto)
-  - BFS → camino más corto (sin pesos)
+- 🔁 Confusión entre DFS y BFS  
+  - DFS → primer camino válido  
+  - BFS → camino más corto  
 
 - 🧩 Diferencia entre:
-  - `visited` → nodos recorridos
-  - `path` → camino actual
+  - `visited` → nodos recorridos  
+  - `path` → camino actual  
 
-- 🔍 Interpretación de código en lugar de ejecución mental correcta
+- 🔍 Interpretación incorrecta de código
 
 - ⚠️ Casos borde en Binary Search
 
 ---
 
-## 📷 Evidencia
+## 🧩 Preguntas del examen
 
-Se adjuntan capturas del examen con las preguntas incorrectas para análisis:
+Estas preguntas fueron clave para detectar errores de interpretación.
 
-- Resultado general del intento
-- Preguntas fallidas (DFS, BFS, Binary Search, Graph traversal)
+---
 
-Estas imágenes sirven como referencia para detectar errores y mejorar en el siguiente intento.
+### 🌳 Question 2 — DFS Tree (Path)
+![Q2](./images/q2-dfs-tree-path.png)
+
+---
+
+### 🔍 Question 4 — Binary Search (Recursivo)
+![Q4](./images/q4-binary-search-recursive.png)
+
+---
+
+### 🌐 Question 7 — DFS Graph (Path)
+![Q7](./images/q7-dfs-graph-path.png)
+
+---
+
+### ⚡ Question 8 — BFS Graph (Shortest Path)
+![Q8](./images/q8-bfs-graph-shortest-path.png)
 
 ---
 
 ## 📌 Conceptos cubiertos
 
-Aunque no todos fueron evaluados directamente en todas las preguntas, este examen involucra:
-
-- 🌳 Trees (estructura jerárquica)
-- 🌐 Graphs (relaciones y conexiones)
+- 🌳 Trees (estructuras jerárquicas)
+- 🌐 Graphs (relaciones entre nodos)
 - 🔁 DFS (Depth First Search)
 - 📊 BFS (Breadth First Search)
 - 🔍 Binary Search
 - 💰 Dijkstra (shortest path con pesos)
-- ⭐ A* (heurística de búsqueda)
+- ⭐ A* (heurísticas de búsqueda)
 
 ---
 
@@ -82,18 +93,18 @@ Aunque no todos fueron evaluados directamente en todas las preguntas, este exame
 
 Para el próximo intento:
 
-- Reforzar la diferencia entre DFS y BFS en código
-- Practicar interpretación de algoritmos paso a paso
-- Repasar casos límite (especialmente en búsqueda binaria)
-- Resolver ejercicios similares antes de volver a rendir
+- Reforzar DFS vs BFS en código
+- Practicar interpretación paso a paso
+- Repasar casos límite (Binary Search)
+- Resolver ejercicios similares
 
 ---
 
 ## 🔁 Próximo paso
 
-El examen puede volver a rendirse luego de 24 horas.
+El examen puede repetirse luego de 24 horas.
 
-El objetivo es aplicar lo aprendido en este intento para mejorar la precisión y comprensión.
+El objetivo es aplicar lo aprendido en este intento para mejorar la precisión.
 
 ---
 
@@ -101,4 +112,4 @@ El objetivo es aplicar lo aprendido en este intento para mejorar la precisión y
 
 Este intento se documenta intencionalmente sin modificar resultados.
 
-El objetivo de esta sección no es mostrar perfección, sino evidenciar el proceso real de aprendizaje, incluyendo errores, análisis y mejora continua.
+El objetivo no es mostrar perfección, sino evidenciar el proceso real de aprendizaje.
