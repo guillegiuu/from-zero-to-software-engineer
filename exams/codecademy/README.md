@@ -16,7 +16,7 @@ En algunos casos, solo se documenta una parte del examen (por ejemplo, únicamen
 | Módulo | Tema | Acceso |
 |--------|------|--------|
 | 🧠 Algorithms | Algoritmos, Big-O, sorting y dynamic programming | [Ver módulo](./algorithms/) |
-| 🌳 Trees & Graphs | Traversal, DFS, BFS, Dijkstra, A* (Part 1 - Teórico) | [Ver teoría](./trees-graphs/) |
+| 🌳 Trees & Graphs | Traversal, DFS, BFS, Dijkstra, A* (Part 1 - Teórico) | [Ver teoría](./trees-graphs-part1-attempt1/) |
 
 ---
 
