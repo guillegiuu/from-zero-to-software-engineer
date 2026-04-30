@@ -4,7 +4,7 @@
 
 ⬅️ [Capítulo anterior — String Methods](../chapter10_string_methods/README.md)
 
-➡️ Capítulo siguiente: [Dictionaries](../chapter12_dictionaries/README.md)
+➡️ [Capítulo siguiente — Dictionaries](../chapter12_dictionaries/README.md)
 
 💻 [Ver ejemplos prácticos](../../code_examples/chapter11/README.md)
 
