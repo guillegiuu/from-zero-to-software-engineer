@@ -20,7 +20,10 @@ En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoqu
 | 📄 Capítulo 8 | Git & Version Control | [Ver teoría](./chapter8_git/README.md) |
 | 🔤 Capítulo 9 | Strings | [Ver teoría](./chapter9_strings/README.md) |
 | 🧰 Capítulo 10 | String Methods | [Ver teoría](./chapter10_string_methods/README.md) |
-| 📦 Capítulo 11 | Modules | [Ver teoría](./chapter11_modules/README.md) |
+| 📄 Capítulo 11 | Modules | [Ver teoría](./chapter11_modules/README.md) |
+| 📦 Capítulo 12 | Dictionaries | [Ver teoría](./chapter12_dictionaries/README.md) |
+
+
 
 ---
 
