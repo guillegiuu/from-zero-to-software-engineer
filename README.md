@@ -93,8 +93,13 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 📘 [Ver teoría](./notes/chapter11_modules/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter11/)
 
+## 🧠 Chapter 12 — Dictionaries
+
+- 📘 [Ver teoría](./notes/chapter12_dictionaries/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter12/)
+  
+
 ## 🔮 Upcoming Chapters
-- Chapter 12 — Dictionaries
 - Chapter 13 — Files
 - Chapter 14 — Object-Oriented Programming
 - Chapter 15 — Code Challenges II (Optional)
@@ -126,7 +131,7 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ### 📈 Progreso del roadmap
 
-**Progreso global:** ~20% completado  
+**Progreso global:** ~25% completado
 **Enfoque actual:** Fundamentos + primera pasada de DSA
 
 [████░░░░░░░░░░░░░░░░] 20%
@@ -144,9 +149,10 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 | Chapter 9 | [📘](./notes/chapter9_strings/) | [💻](./code_examples/chapter9/) |
 | Chapter 10 | [📘](./notes/chapter10_string_methods/) | [💻](./code_examples/chapter10/) |
 | Chapter 11 | [📘](./notes/chapter11_modules/) | [💻](./code_examples/chapter11/) |
+| Chapter 12 | [📘](./notes/chapter12_dictionaries/) | [💻](./code_examples/chapter12/) |
 
 ---
 
-📝 Próximo paso: Chapter 12 — Dictionaries
+📌 Próximo paso: Chapter 13 — Files
 
 🔝 [Volver arriba](#from-zero-to-software-engineer)
