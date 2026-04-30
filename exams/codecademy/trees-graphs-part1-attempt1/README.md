@@ -100,16 +100,12 @@ Para el próximo intento:
 
 ---
 
-## 🔁 Próximo paso
+## 🛠️ Corrección detallada de ejercicios
 
-El examen puede repetirse luego de 24 horas.
+Para ver el análisis completo de cada pregunta:
 
-El objetivo es aplicar lo aprendido en este intento para mejorar la precisión.
+- 🌳 [Q2 — DFS Tree](./corrections/q2-dfs-tree.md)
+- 🔍 [Q4 — Binary Search](./corrections/q4-binary-search.md)
+- 🌐 [Q7 — DFS Graph](./corrections/q7-dfs-graph.md)
+- ⚡ [Q8 — BFS Graph](./corrections/q8-bfs-graph.md)
 
----
-
-## 🧭 Nota final
-
-Este intento se documenta intencionalmente sin modificar resultados.
-
-El objetivo no es mostrar perfección, sino evidenciar el proceso real de aprendizaje.
