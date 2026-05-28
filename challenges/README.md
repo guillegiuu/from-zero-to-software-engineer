@@ -16,11 +16,3 @@ La idea es pasar de ejercicios guiados a una práctica cada vez más sólida, cl
 
 ---
 
-## 🚀 Próximamente
-
-- 🔵 Variables
-- 🟣 Data Types
-- 🟠 Strings
-- 🟢 Lists
-- 🔴 Loops
-- 🟡 Functions
