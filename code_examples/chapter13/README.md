@@ -14,14 +14,14 @@ Estos ejemplos acompañan el Chapter 13 y muestran el manejo de archivos en Pyth
 
 | Archivo | Descripción |
 |----------|-------------|
-| read_file.py | Leer contenido de archivos |
-| write_file.py | Uso de `write()` |
-| append_file.py | Agregar contenido con modo `"a"` |
-| readline_example.py | Leer una sola línea |
-| iterate_lines.py | Recorrer líneas con `for line in file` |
-| with_open.py | Uso seguro de `with open()` |
-| csv_example.py | Lectura básica de CSV |
-| json_example.py | Manejo básico de JSON |
+| [read_file.py](./read_file.py) | Leer contenido de archivos |
+| [write_file.py](./write_file.py) | Uso de `write()` |
+| [append_file.py](./append_file.py) | Agregar contenido con modo `"a"` |
+| [readline_example.py](./readline_example.py) | Leer una sola línea |
+| [iterate_lines.py](./iterate_lines.py) | Recorrer líneas con `for line in file` |
+| [with_open.py](./with_open.py) | Uso seguro de `with open()` |
+| [csv_example.py](./csv_example.py) | Lectura básica de CSV |
+| [json_example.py](./json_example.py) | Manejo básico de JSON |
 
 ---
 
@@ -29,8 +29,8 @@ Estos ejemplos acompañan el Chapter 13 y muestran el manejo de archivos en Pyth
 
 | Archivo | Problema |
 |----------|----------|
-| file_not_found.py | Archivo inexistente |
-| overwrite_warning.py | Uso incorrecto de modo `"w"` |
+| [file_not_found.py](./file_not_found.py) | Archivo inexistente |
+| [overwrite_warning.py](./overwrite_warning.py) | Uso incorrecto de modo `"w"` |
 
 ---
 
