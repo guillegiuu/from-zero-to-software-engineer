@@ -22,7 +22,7 @@ En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoqu
 | 🧰 Capítulo 10 | String Methods | [Ver teoría](./chapter10_string_methods/README.md) |
 | 📄 Capítulo 11 | Modules | [Ver teoría](./chapter11_modules/README.md) |
 | 📦 Capítulo 12 | Dictionaries | [Ver teoría](./chapter12_dictionaries/README.md) |
-
+| 📁 capítulo 13 | Files | [Ver teoría](./chapter13_files/README.md) |
 
 
 ---
