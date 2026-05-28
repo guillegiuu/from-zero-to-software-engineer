@@ -96,10 +96,14 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 
 - 📘 [Ver teoría](./notes/chapter12_dictionaries/)
 - 💻 [Explorar ejemplos de código](./code_examples/chapter12/)
+
+### 📁 Chapter 13 — Files
+
+- 📘 [Ver teoría](./notes/chapter13_files/)
+- 💻 [Explorar ejemplos de código](./code_examples/chapter13/)
   
 
 ## 🔮 Upcoming Chapters
-- Chapter 13 — Files
 - Chapter 14 — Object-Oriented Programming
 - Chapter 15 — Code Challenges II (Optional)
 
@@ -120,7 +124,7 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 
 ### 📍 Fase actual
 
-- ✅ Python Fundamentals (Intro + Data Structures básicas)
+- ✅ Python Fundamentals (Intro + Data Structures básicas + Files)
 - ⏳ Data Structures (Linked Lists, Stacks, Queues)
 - ⏳ Algorithms
 - ⏳ Trees & Graphs
@@ -149,9 +153,10 @@ Construir mi propio libro de Computer Science paso a paso, combinando:
 | Chapter 10 | [📘](./notes/chapter10_string_methods/) | [💻](./code_examples/chapter10/) |
 | Chapter 11 | [📘](./notes/chapter11_modules/) | [💻](./code_examples/chapter11/) |
 | Chapter 12 | [📘](./notes/chapter12_dictionaries/) | [💻](./code_examples/chapter12/) |
+| Chapter 13 | [📘](./notes/chapter13_files/) | [💻](./code_examples/chapter13/) |
 
 ---
 
-📌 Próximo paso: Chapter 13 — Files
+📌 Próximo paso: Chapter 14 — Object-Oriented Programming
 
 🔝 [Volver arriba](#from-zero-to-software-engineer)
