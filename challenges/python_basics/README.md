@@ -19,8 +19,6 @@ La idea es construir una base sólida antes de avanzar a estructuras de datos y 
 | [syntax_1.py](./syntax_1.py) | Indentación en Python | 🟢 Fácil |
 | [comments.py](./comments.py) | Comentarios en Python | 🟢 Fácil |
 
-Estos ejercicios representan los primeros pasos en Python y están inspirados en plataformas educativas como W3Schools y Codecademy.
-
 ---
 
 # 🎯 Objetivo
