@@ -12,12 +12,14 @@ La idea es construir una base sólida antes de avanzar a estructuras de datos y 
 
 ## 📂 Ejercicios disponibles
 
-| Archivo | Descripción |
-|----------|-------------|
-| [introduction.py](./introduction.py) | Uso básico de `print()` |
-| [syntax.py](./syntax.py) | Variables y salida por pantalla |
-| [syntax_1.py](./syntax_1.py) | Indentación en Python |
-| [comments.py](./comments.py) | Comentarios en Python |
+| Archivo | Tema | Dificultad |
+|----------|------|------------|
+| [introduction.py](./introduction.py) | Uso básico de `print()` | 🟢 Fácil |
+| [syntax.py](./syntax.py) | Variables y salida por pantalla | 🟢 Fácil |
+| [syntax_1.py](./syntax_1.py) | Indentación en Python | 🟢 Fácil |
+| [comments.py](./comments.py) | Comentarios en Python | 🟢 Fácil |
+
+Estos ejercicios representan los primeros pasos en Python y están inspirados en plataformas educativas como W3Schools y Codecademy.
 
 ---
 
