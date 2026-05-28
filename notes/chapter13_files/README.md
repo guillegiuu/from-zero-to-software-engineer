@@ -70,10 +70,3 @@
 - CSV y JSON
 - Manejo seguro con `with`
 
----
-
-## ⏭️ Navegación
-
-⬅️ [Chapter 12 — Dictionaries](../chapter12_dictionaries/README.md)
-
-🏠 [Menú principal](../../README.md)
