@@ -7,16 +7,20 @@ La idea es pasar de ejercicios guiados a una práctica cada vez más sólida, cl
 
 ---
 
-## 📁 Temas disponibles
+## 📂 Temas disponibles
 
 | Sección | Tema | Acceso |
-|--------|------|--------|
-| 🟡 01 | Control Flow (Basic) | [Ver ejercicios](./control_flow_basic/README.md) |
+|----------|------|--------|
+| 🟢 01 | Home / Introduction | [Ver ejercicios](./python_basics/) |
+| 🟡 02 | Control Flow (Basic) | [Ver ejercicios](./control_flow_basic/README.md) |
 
 ---
 
 ## 🚀 Próximamente
 
-- 🟢 Lists (Basic)
-- 🔵 Loops (Basic)
-- 🟣 Functions (Basic)
+- 🔵 Variables
+- 🟣 Data Types
+- 🟠 Strings
+- 🟢 Lists
+- 🔴 Loops
+- 🟡 Functions
