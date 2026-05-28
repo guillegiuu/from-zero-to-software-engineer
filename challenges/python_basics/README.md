@@ -10,11 +10,14 @@ La idea es construir una base sólida antes de avanzar a estructuras de datos y 
 
 ---
 
-# 📂 Secciones disponibles
+## 📂 Ejercicios disponibles
 
-| Sección | Tema | Acceso |
-|----------|------|--------|
-| 🟢 01 | Home / Introduction | [Ver ejercicios](./home/) |
+| Archivo | Descripción |
+|----------|-------------|
+| [introduction.py](./introduction.py) | Uso básico de `print()` |
+| [syntax.py](./syntax.py) | Variables y salida por pantalla |
+| [syntax_1.py](./syntax_1.py) | Indentación en Python |
+| [comments.py](./comments.py) | Comentarios en Python |
 
 ---
 
