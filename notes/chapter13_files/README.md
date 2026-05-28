@@ -23,6 +23,26 @@
 
 ---
 
+## 🚀 Conceptos importantes
+
+- `open()` abre archivos.
+- `read()` lee contenido.
+- `write()` escribe contenido.
+- `"w"` reemplaza contenido.
+- `"a"` agrega contenido al final.
+- `with open()` es la forma recomendada.
+- CSV guarda datos tabulares.
+- JSON guarda datos estructurados.
+
+---
+
+## 📚 Recursos útiles
+
+- Archivos en Python
+- CSV y JSON
+- Manejo seguro con `with`
+---
+
 ## 🧠 📄 Introducción (Page 1)
 <p align="center">
   <img src="./chapter13_page1.jpg" width="500">
@@ -51,22 +71,4 @@
 
 ---
 
-## 🚀 Conceptos importantes
-
-- `open()` abre archivos.
-- `read()` lee contenido.
-- `write()` escribe contenido.
-- `"w"` reemplaza contenido.
-- `"a"` agrega contenido al final.
-- `with open()` es la forma recomendada.
-- CSV guarda datos tabulares.
-- JSON guarda datos estructurados.
-
----
-
-## 📚 Recursos útiles
-
-- Archivos en Python
-- CSV y JSON
-- Manejo seguro con `with`
 
