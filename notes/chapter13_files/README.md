@@ -4,7 +4,7 @@
 
 ⬅️ [Capítulo anterior — Dictionaries](../chapter12_dictionaries/README.md)
 
-💻 [Ver ejemplos prácticos](../../code_examples/chapter13_files/README.md)
+💻 [Ver ejemplos prácticos](../../code_examples/chapter13/README.md)
 
 ---
 
