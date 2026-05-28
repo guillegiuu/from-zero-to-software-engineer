@@ -1,6 +1,6 @@
 # 🐍 Python Basics
 
-🏠 [Volver a Code Challenges](../README.md)
+📚 [Volver a challenges](../README.md)
 
 ---
 
@@ -18,24 +18,3 @@ La idea es construir una base sólida antes de avanzar a estructuras de datos y 
 | [syntax.py](./syntax.py) | Variables y salida por pantalla | 🟢 Fácil |
 | [syntax_1.py](./syntax_1.py) | Indentación en Python | 🟢 Fácil |
 | [comments.py](./comments.py) | Comentarios en Python | 🟢 Fácil |
-
----
-
-# 🎯 Objetivo
-
-- Practicar fundamentos de Python
-- Reforzar sintaxis básica
-- Aprender mediante ejercicios simples
-- Mantener constancia y progresión
-- Construir lógica desde cero
-
----
-
-# 🚀 Próximamente
-
-- 🔵 Variables
-- 🟣 Data Types
-- 🟠 Strings
-- 🟢 Lists
-- 🔴 Loops
-- 🟡 Functions
