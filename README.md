@@ -31,7 +31,7 @@ Este repositorio refleja mi progreso en Computer Science desde cero.
 - 💻 [code_examples/](./code_examples) → ejemplos básicos y claros en Python  
 - 📦 [resources/](./resources) → materiales adicionales (PDFs, apuntes externos, etc.)  
 - 🧠 [challenges/](./challenges) → ejercicios prácticos y resolución de problemas  
-- 🧪 [exams/](./exams) → evaluaciones reales y práctica tipo examen (Codecademy, etc.)
+- 🧪 [exams/](./exams) → evaluaciones reales y práctica tipo examen
 
 ---
 
