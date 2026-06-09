@@ -10,16 +10,14 @@ Los ejercicios están orientados a practicar lógica, estructuras básicas de pr
 
 ---
 
-## 📋 Challenges completados
-
-| Nº | Challenge | Tema | Dificultad |
-|----|-----------|------|------------|
-| 01 | Say Hello | Basics | 🟢 Easy |
-| 02 | Celsius to Fahrenheit | Variables | 🟢 Easy |
-| 03 | Even or Odd | Operators | 🟢 Easy |
-| 04 | Make a Username | Strings | 🟢 Easy |
-| 05 | Double or Nothing | Conditions | 🟢 Easy |
-| 06 | Reverse String | Strings | 🟢 Easy |
-| 07 | Count Consonants | Strings | 🟠 Medium |
-| 08 | Balanced Brackets | Strings | 🟠 Medium |
-| 09 | Sum of Primes | Math | 🔴 Hard |
+| Nº | Challenge | Tema | Dificultad | Código |
+|----|-----------|------|------------|---------|
+| 01 | Say Hello | Basics | 🟢 Easy | [Ver código](./01_say_hello.py) |
+| 02 | Celsius to Fahrenheit | Variables | 🟢 Easy | [Ver código](./02_celsius_to_fahrenheit.py) |
+| 03 | Even or Odd | Operators | 🟢 Easy | [Ver código](./03_even_or_odd.py) |
+| 04 | Make a Username | Strings | 🟢 Easy | [Ver código](./04_make_a_username.py) |
+| 05 | Double or Nothing | Conditions | 🟢 Easy | [Ver código](./05_double_or_nothing.py) |
+| 06 | Reverse String | Strings | 🟢 Easy | [Ver código](./06_reverse_string.py) |
+| 07 | Count Consonants | Strings | 🟠 Medium | [Ver código](./07_count_consonants.py) |
+| 08 | Balanced Brackets | Strings | 🟠 Medium | [Ver código](./08_balanced_brackets.py) |
+| 09 | Sum of Primes | Math | 🔴 Hard | [Ver código](./09_sum_of_primes.py) |
