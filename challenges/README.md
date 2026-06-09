@@ -1,3 +1,7 @@
+## 📁 Temas disponibles
+
+Ejercicios y desafíos prácticos organizados por tema y plataforma de aprendizaje.
+
 | Sección | Tema | Acceso |
 |----------|----------|----------|
 | 🟡 01 | Control Flow (Codecademy) | [Ver ejercicios](./control_flow_basic/README.md) |
