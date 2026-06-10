@@ -21,3 +21,4 @@ Los ejercicios están orientados a practicar lógica, estructuras básicas de pr
 | 07 | Count Consonants | Strings | 🟠 Medium | [Ver código](./07_count_consonants.py) |
 | 08 | Balanced Brackets | Strings | 🟠 Medium | [Ver código](./08_balanced_brackets.py) |
 | 09 | Sum of Primes | Math | 🔴 Hard | [Ver código](./09_sum_of_primes.py) |
+| 10 | Voting Age | Booleans | 🟢 Easy | [Ver código](./10_voting_age.py) |
