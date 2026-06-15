@@ -16,3 +16,4 @@ Los problemas están orientados a desarrollar pensamiento algorítmico, análisi
 | 02 | Valid Anagram | Arrays & Hashing | 🟢 Easy | [Ver código](./002_valid_anagram.py) |
 | 03 | Two Sum | Arrays & Hashing | 🟢 Easy | [Ver código](./003_two_sum.py) |
 | 04 | Encode and Decode Strings | Strings | 🟡 Medium | [Ver código](./004_encode_decode_strings.py) |
+| 05 | Valid Palindrome | Two Pointers | 🟢 Easy | [Ver código](./005_Valid_Palindrome.py) |
