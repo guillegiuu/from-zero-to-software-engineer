@@ -6,6 +6,20 @@ En esta sección organizo los apuntes teóricos de cada capítulo, con un enfoqu
 
 ---
 
+## 📚 GuilleGiu Notes Collection⭐ (Nuevo)
+
+Una colección de apuntes visuales diseñados para aprender Python de forma clara, intuitiva y progresiva.
+
+- 📘 Portadas por volumen
+- 🖼 Resúmenes visuales
+- 📖 Prólogos
+- 📚 Colección organizada por temas
+- 📄 Próximamente en PDF
+
+➡️ [Abrir Visual Notes](visual_notes/)
+
+---
+
 ## 📂 Capítulos disponibles
 
 | Capítulo | Tema | Acceso |
