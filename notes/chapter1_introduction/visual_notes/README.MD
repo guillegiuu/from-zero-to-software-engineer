@@ -1,77 +1,59 @@
-# 📚 GuilleGiu Notes — Visual Notes
+# 📚 GuilleGiu Notes — Python Visual Notes
 
-## 🐍 Python Fundamentals
+Bienvenido a **GuilleGiu Notes**, una colección de apuntes visuales creada para aprender Python de forma clara, intuitiva y progresiva.
 
-Bienvenido a la colección **GuilleGiu Notes**, una serie de apuntes visuales diseñados para aprender programación de forma clara, intuitiva y progresiva.
-
-Este volumen resume los conceptos fundamentales de Python utilizando explicaciones simples, ejemplos prácticos y un diseño pensado para facilitar el estudio.
+Cada volumen resume un tema específico con un formato visual pensado para facilitar el estudio y el repaso.
 
 ---
 
-## 📖 Contenido del volumen
+## 📖 Contenido
 
-- 🏠 Portada
-- ✍️ Prólogo *(Próximamente)*
-- 📄 Página 1 — ¿Qué es Python?
-- 📄 Página 2 — Instalación y Primer Programa
-- 📄 Página 3 — Sintaxis Básica
-- 📄 Página 4 — Resumen General
+- 🖼 Portada
+- ✍️ Prólogo
 
----
+### 📚 Volúmenes
 
-## 🎯 Objetivo
-
-Este material fue creado para complementar la teoría escrita del repositorio **From Zero to Software Engineer**.
-
-La idea no es reemplazar la documentación tradicional, sino ofrecer un formato visual que permita repasar conceptos rápidamente y hacer el aprendizaje más agradable.
-
----
-
-## 📚 Cómo estudiar este volumen
-
-Te recomiendo seguir este orden:
-
-1. 📖 Leer la teoría del capítulo.
-2. 🖼 Revisar las Visual Notes.
-3. 💻 Escribir todos los ejemplos por tu cuenta.
-4. 🧩 Resolver los ejercicios y challenges.
-5. 🔁 Repasar nuevamente las Visual Notes.
-
-> 💡 La programación se aprende escribiendo código. Estas notas son una guía, no un reemplazo de la práctica.
-
----
-
-## 📂 Archivos
-
-- `portada.png`
-- `prologo.png` *(Próximamente)*
-- `pagina1.png`
-- `pagina2.png`
-- `pagina3.png`
-- `pagina4.png`
+| Nº | Tema | Estado |
+|:--:|------|:------:|
+| 01 | Fundamentos | ✅ |
+| 02 | Variables | ⏳ |
+| 03 | Data Types | ⏳ |
+| 04 | Strings | ⏳ |
+| 05 | Booleans | ⏳ |
+| 06 | Operators | ⏳ |
+| 07 | Lists | ⏳ |
+| 08 | Tuples | ⏳ |
+| 09 | Sets | ⏳ |
+| 10 | Dictionaries | ⏳ |
+| 11 | If...Else | ⏳ |
+| 12 | Match | ⏳ |
+| 13 | While Loops | ⏳ |
+| 14 | For Loops | ⏳ |
+| 15 | Functions | ⏳ |
+| 16 | Range | ⏳ |
+| 17 | Arrays | ⏳ |
+| 18 | Iterators | ⏳ |
+| 19 | Modules | ⏳ |
+| 20 | Dates | ⏳ |
+| 21 | Math | ⏳ |
+| 22 | JSON | ⏳ |
+| 23 | RegEx | ⏳ |
+| 24 | PIP | ⏳ |
+| 25 | Try...Except | ⏳ |
+| 26 | String Formatting | ⏳ |
+| 27 | None | ⏳ |
+| 28 | User Input | ⏳ |
+| 29 | Virtual Environment | ⏳ |
+| 30 | Object-Oriented Programming | ⏳ |
 
 ---
 
-## 📄 Ebook
+## 📘 Edición Completa
 
-Cuando este volumen esté completamente revisado se publicará también en formato PDF.
-
----
-
-## 📌 Proyecto
-
-Este volumen forma parte de la colección **GuilleGiu Notes**, donde cada tema constituye un volumen independiente.
-
-Al finalizar todos los volúmenes de Python se publicará una edición completa:
-
-> 📘 **Python Visual Notes — Complete Edition**
+La edición completa del ebook estará disponible cuando todos los volúmenes hayan sido revisados y finalizados.
 
 ---
 
-## 👨‍💻 Autor
+### 👨‍💻 Autor
 
 **Designed & Summarized by GuilleGiu**
-
-Con asistencia de IA para el diseño visual y la maquetación.
-
-Todo el contenido es revisado antes de su publicación.
