@@ -11,40 +11,40 @@ Cada volumen resume un tema específico con un formato visual pensado para facil
 - 🖼 Portada
 - ✍️ Prólogo
 
-### 📚 Volúmenes
+## 📚 Volúmenes
 
-| Nº | Tema | Estado |
-|:--:|------|:------:|
-| 01 | Fundamentos | ✅ |
-| 02 | Variables | ⏳ |
-| 03 | Data Types | ⏳ |
-| 04 | Strings | ⏳ |
-| 05 | Booleans | ⏳ |
-| 06 | Operators | ⏳ |
-| 07 | Lists | ⏳ |
-| 08 | Tuples | ⏳ |
-| 09 | Sets | ⏳ |
-| 10 | Dictionaries | ⏳ |
-| 11 | If...Else | ⏳ |
-| 12 | Match | ⏳ |
-| 13 | While Loops | ⏳ |
-| 14 | For Loops | ⏳ |
-| 15 | Functions | ⏳ |
-| 16 | Range | ⏳ |
-| 17 | Arrays | ⏳ |
-| 18 | Iterators | ⏳ |
-| 19 | Modules | ⏳ |
-| 20 | Dates | ⏳ |
-| 21 | Math | ⏳ |
-| 22 | JSON | ⏳ |
-| 23 | RegEx | ⏳ |
-| 24 | PIP | ⏳ |
-| 25 | Try...Except | ⏳ |
-| 26 | String Formatting | ⏳ |
-| 27 | None | ⏳ |
-| 28 | User Input | ⏳ |
-| 29 | Virtual Environment | ⏳ |
-| 30 | Object-Oriented Programming | ⏳ |
+| Nº | Tema | Estado | Abrir |
+|:--:|------|:------:|:-----:|
+| 01 | Fundamentos | ✅ | [📘 Ver](01_vol_fundamentos/) |
+| 02 | Variables | ⏳ | Próximamente |
+| 03 | Data Types | ⏳ | Próximamente |
+| 04 | Strings | ⏳ | Próximamente |
+| 05 | Booleans | ⏳ | Próximamente |
+| 06 | Operators | ⏳ | Próximamente |
+| 07 | Lists | ⏳ | Próximamente |
+| 08 | Tuples | ⏳ | Próximamente |
+| 09 | Sets | ⏳ | Próximamente |
+| 10 | Dictionaries | ⏳ | Próximamente |
+| 11 | If...Else | ⏳ | Próximamente |
+| 12 | Match | ⏳ | Próximamente |
+| 13 | While Loops | ⏳ | Próximamente |
+| 14 | For Loops | ⏳ | Próximamente |
+| 15 | Functions | ⏳ | Próximamente |
+| 16 | Range | ⏳ | Próximamente |
+| 17 | Arrays | ⏳ | Próximamente |
+| 18 | Iterators | ⏳ | Próximamente |
+| 19 | Modules | ⏳ | Próximamente |
+| 20 | Dates | ⏳ | Próximamente |
+| 21 | Math | ⏳ | Próximamente |
+| 22 | JSON | ⏳ | Próximamente |
+| 23 | RegEx | ⏳ | Próximamente |
+| 24 | PIP | ⏳ | Próximamente |
+| 25 | Try...Except | ⏳ | Próximamente |
+| 26 | String Formatting | ⏳ | Próximamente |
+| 27 | None | ⏳ | Próximamente |
+| 28 | User Input | ⏳ | Próximamente |
+| 29 | Virtual Environment | ⏳ | Próximamente |
+| 30 | Object-Oriented Programming | ⏳ | Próximamente |
 
 ---
 
