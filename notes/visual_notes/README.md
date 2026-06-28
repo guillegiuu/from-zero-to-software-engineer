@@ -4,7 +4,7 @@ Bienvenido a **GuilleGiu Notes**, una colección de apuntes visuales creada para
 
 Cada volumen resume un tema específico con un formato visual pensado para facilitar el estudio y el repaso.
 
-🔙 [Volver a Notes](../README.md)
+🔙 [Volver a Notes — Teoría](../README.md)
 
 ---
 
