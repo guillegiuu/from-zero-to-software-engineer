@@ -6,7 +6,7 @@ Aquí encontrarás un resumen visual de los conceptos fundamentales de Python.
 
 ➡️ **Continuar aprendiendo:** 📘 [Ir al Volumen 2 — Variables y Tipos de Datos](../02_vol_variables/)
 
-🔙 [GuilleGiu Notes](../README.md)
+🔙 [Volver a GuilleGiu Notes](../README.md)
 
 ---
 
