@@ -2,7 +2,9 @@
 
 Segundo volumen de la colección **GuilleGiu Notes**.
 
-Aquí encontrarás un resumen visual sobre las variables, los tipos de datos básicos, el casting y la entrada y salida de datos en Python.
+Aquí encontrarás un resumen visual sobre las variables y los tipos de datos en Python.
+
+⬅️ **Volumen anterior:** 📘 [Fundamentos](../01_vol_fundamentos/)
 
 ---
 
