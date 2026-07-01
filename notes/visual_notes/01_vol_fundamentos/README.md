@@ -1,8 +1,10 @@
-# 📘 Volumen 1 — Fundamentos
+📘 Volumen 1 — Fundamentos
 
 Primer volumen de la colección **GuilleGiu Notes**.
 
 Aquí encontrarás un resumen visual de los conceptos fundamentales de Python.
+
+➡️ **Continuar aprendiendo:** 📘 [Ir al Volumen 2 — Variables y Tipos de Datos](../02_vol_variables/)
 
 ---
 
