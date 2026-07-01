@@ -6,6 +6,8 @@ Aquí encontrarás un resumen visual sobre las variables y los tipos de datos en
 
 ⬅️ **Volumen anterior:** 📘 [Fundamentos](../01_vol_fundamentos/)
 
+🔙 [Volver a GuilleGiu Notes](../README.md)
+
 ---
 
 ## 🖼️ Visual Notes
