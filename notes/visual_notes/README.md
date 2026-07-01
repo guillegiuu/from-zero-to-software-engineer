@@ -10,43 +10,35 @@ Cada volumen resume un tema específico con un formato visual pensado para facil
 
 ## 📖 Contenido
 
-- 🖼 Portada
-- ✍️ Prólogo
+Esta colección está organizada en volúmenes temáticos.
+
+Cada volumen incluye:
+
+- 🖼️ Portada
+- ✍️ Introducción (cuando corresponda)
+- 📄 Apuntes visuales
+- 📝 Resumen general
+
+---
 
 ## 📚 Volúmenes
 
-| Nº | Tema | Estado | Abrir |
-|:--:|------|:------:|:-----:|
-| 01 | Fundamentos | ✅ | [📘 Ver](01_vol_fundamentos/) |
-| 02 | Variables | ⏳ | Próximamente |
-| 03 | Data Types | ⏳ | Próximamente |
-| 04 | Strings | ⏳ | Próximamente |
-| 05 | Booleans | ⏳ | Próximamente |
-| 06 | Operators | ⏳ | Próximamente |
-| 07 | Lists | ⏳ | Próximamente |
-| 08 | Tuples | ⏳ | Próximamente |
-| 09 | Sets | ⏳ | Próximamente |
-| 10 | Dictionaries | ⏳ | Próximamente |
-| 11 | If...Else | ⏳ | Próximamente |
-| 12 | Match | ⏳ | Próximamente |
-| 13 | While Loops | ⏳ | Próximamente |
-| 14 | For Loops | ⏳ | Próximamente |
-| 15 | Functions | ⏳ | Próximamente |
-| 16 | Range | ⏳ | Próximamente |
-| 17 | Arrays | ⏳ | Próximamente |
-| 18 | Iterators | ⏳ | Próximamente |
-| 19 | Modules | ⏳ | Próximamente |
-| 20 | Dates | ⏳ | Próximamente |
-| 21 | Math | ⏳ | Próximamente |
-| 22 | JSON | ⏳ | Próximamente |
-| 23 | RegEx | ⏳ | Próximamente |
-| 24 | PIP | ⏳ | Próximamente |
-| 25 | Try...Except | ⏳ | Próximamente |
-| 26 | String Formatting | ⏳ | Próximamente |
-| 27 | None | ⏳ | Próximamente |
-| 28 | User Input | ⏳ | Próximamente |
-| 29 | Virtual Environment | ⏳ | Próximamente |
-| 30 | Object-Oriented Programming | ⏳ | Próximamente |
+| N° | Tema | Estado | Abrir |
+|:--:|---------------------------|:------:|:------:|
+| 01 | Fundamentos | ✅ | 📘 [Ver](01_vol_fundamentos/) |
+| 02 | Variables y Tipos de Datos | ✅ | 📘 [Ver](02_vol_variables/) |
+| 03 | Operadores y Condicionales | ⏳ | Próximamente |
+| 04 | Bucles (`for` / `while`) | ⏳ | Próximamente |
+| 05 | Funciones | ⏳ | Próximamente |
+| 06 | Colecciones (Listas) | ⏳ | Próximamente |
+| 07 | Tuplas | ⏳ | Próximamente |
+| 08 | Sets | ⏳ | Próximamente |
+| 09 | Diccionarios | ⏳ | Próximamente |
+| 10 | Strings | ⏳ | Próximamente |
+| 11 | Archivos | ⏳ | Próximamente |
+| 12 | Excepciones | ⏳ | Próximamente |
+| 13 | Programación Orientada a Objetos | ⏳ | Próximamente |
+| 14 | Módulos y Paquetes | ⏳ | Próximamente |
 
 ---
 
