@@ -1,6 +1,7 @@
 # 🐍 Python
 
 > Mi recorrido completo de aprendizaje en Python, organizado por temas para facilitar el estudio progresivo.
+> ⬅️ [Learning](../)
 
 ---
 
