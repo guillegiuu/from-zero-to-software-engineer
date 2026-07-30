@@ -10,7 +10,7 @@ Cada carpeta representa un área de estudio e incluye teoría, ejercicios, apunt
 
 ## 📂 Contenido
 
-- - 🐍 [Python](./python/)
+- 🐍 [Python](./python/)
 - 🧠 Computer Science
 - 🗄️ SQL
 - 🌐 freeCodeCamp
