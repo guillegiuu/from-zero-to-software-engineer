@@ -4,13 +4,49 @@
 
 ---
 
-## 📖 eBooks
+# 📖 eBooks
 
 | Recurso | Estado | Descripción |
-|:--------|:------:|:------------|
+|:---------|:------:|:------------|
 | 🐍 **GuilleGiu Notes – Python Básico** | ✅ | Visual Notes · 92 páginas · 24 volúmenes · 100% Gratis |
 | 🗄️ **GuilleGiu Notes – SQL Quick Syntax** | 🚧 | Próximamente |
 | 💻 **GuilleGiu Notes – Computer Science** | 🚧 | Próximamente |
+
+---
+
+<p align="center">
+  <img src="./python_cover.png" width="250">
+</p>
+
+<h2 align="center">
+🐍 GuilleGiu Notes – Python Básico
+</h2>
+
+<p align="center">
+Visual Notes • 92 páginas • 24 volúmenes • 100% Gratis
+</p>
+
+<p align="center">
+
+## 📥 Descargar eBook
+
+### **[⬇️ Descargar PDF](./Python_Basics_GuilleGiu_Notes_v1.pdf)**
+
+</p>
+
+---
+
+## 📊 Estadísticas
+
+| | |
+|:---|:---:|
+| 📖 Páginas | **92** |
+| 📚 Volúmenes | **24** |
+| 🐍 Contenido | **Python Fundamentals** |
+| ✍️ Formato | **Visual Notes** |
+| ⚡ Lectura | **Rápida y práctica** |
+| 🎯 Nivel | **Principiante** |
+| 🆓 Precio | **100% Gratis** |
 
 ---
 
@@ -38,4 +74,6 @@ Todo el contenido fue resumido y organizado por mí durante mi proceso de aprend
 
 ---
 
-**Designed & Summarized by GuilleGiu**
+<p align="center">
+<b>Designed & Summarized by GuilleGiu</b>
+</p>
