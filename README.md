@@ -25,17 +25,19 @@ Cada sección representa una etapa real de mi formación.
 
 ---
 
+
 ## 🐍 Python
 
-Todo mi recorrido en Python.
+Todo mi recorrido de aprendizaje en Python, desde los fundamentos hasta Programación Orientada a Objetos.
 
-- 📒 Quick Notes
-- 💻 Ejemplos de código
-- 🧩 Ejercicios
-- 🚀 Proyectos
-- 📄 PDF
+- 📒 [Quick Notes y capítulos](./learning/python/)
+- 🧩 [Ejemplos de código](./learning/python/)
+- 🛠️ [Ejercicios y proyectos](./learning/python/)
+- 📚 [Recursos y eBooks](./resources/)
+- 📥 [Descargar Python Basics Visual Notes](https://github.com/guillegiuu/from-zero-to-software-engineer/releases/download/v1.0.0/Python_Basics_GuilleGiu_Notes_v1.pdf)
 
-➡️ Explorar Python
+➡️ **[Explorar toda la sección de Python](./learning/python/)**
+
 
 ---
 
