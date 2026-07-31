@@ -6,6 +6,42 @@
 
 ---
 
+# 📖 eBook Gratuito
+
+<p align="center">
+  <img src="../../resources/python_cover.png" width="450">
+</p>
+
+## 🐍 Python Básico · Visual Notes
+
+> **Una guía visual para aprender Python desde cero.**
+
+<p align="center">
+
+### 📥 Descarga gratuita
+
+**👉 [Python_Basics_GuilleGiu_Notes.pdf](../../resources/Python_Basics_GuilleGiu_Notes_v1.pdf)**
+
+</p>
+
+---
+
+## 📊 Estadísticas
+
+| | |
+|:---|:---:|
+| 📖 Páginas | **92** |
+| 📚 Volúmenes | **24** |
+| 🐍 Contenido | **Python Fundamentals** |
+| ✍️ Estilo | **Visual Notes** |
+| ⚡ Lectura | **Rápida y práctica** |
+| 🎯 Nivel | **Ideal para principiantes** |
+| 🆓 Precio | **100% Gratis** |
+
+> 💙 **Creado por un principiante, para ayudar a otros principiantes.**
+
+---
+
 # 📖 Sobre esta sección
 
 Esta sección reúne todo el contenido relacionado con Python que fui desarrollando durante mi formación como Software Engineer.
