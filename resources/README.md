@@ -30,7 +30,7 @@ Visual Notes • 92 páginas • 24 volúmenes • 100% Gratis
 
 ## 📥 Descargar eBook
 
-[### **[⬇️ Descargar PDF](https://github.com/guillegiu/from-zero-to-software-engineer/releases/latest/download/Python_Basics_GuilleGiu_Notes_v1.pdf)**](https://github.com/guillegiu/from-zero-to-software-engineer/releases/latest/download/Python_Basics_GuilleGiu_Notes_v1.pdf)
+### **⬇️ [Descargar PDF](https://github.com/guillegiu/from-zero-to-software-engineer/releases/latest)**
 
 </p>
 
