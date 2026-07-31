@@ -7,19 +7,19 @@
 ---
 
 <p align="center">
-  <img src="01_Volumen_1.png" width="800">
+  <img src="01_Volumen_1.png" width="650">
 </p>
 
 <p align="center">
-  <img src="02_Volumen_1.png" width="800">
+  <img src="02_Volumen_1.png" width="650">
 </p>
 
 <p align="center">
-  <img src="03_Volumen_1.png" width="800">
+  <img src="03_Volumen_1.png" width="650">
 </p>
 
 <p align="center">
-  <img src="04_Volumen_1.png" width="800">
+  <img src="04_Volumen_1.png" width="650">
 </p>
 
 ---
