@@ -4,7 +4,7 @@
 
 ### 🔗 Acceso rápido
 
-[📚 Learning](./learning/) · [📦 Proyectos](./projects/) · [📖 Recursos](./resources/) · [🏆 Certificaciones](./certifications/)
+[📚 Learning](./learning/) · [📦 Proyectos](https://github.com/guillegiuu/python-mini-projects) · [📖 Recursos](./resources/) · [🏆 Certificaciones](./certifications/)
 
 ---
 
@@ -102,3 +102,15 @@ Biblioteca de material de estudio, guías y recursos descargables.
 - 📚 Material de consulta
 
 ➡️ [**Explorar Recursos**](./resources/)
+
+---
+
+## 📦 Proyectos
+
+Colección de proyectos prácticos desarrollados durante mi aprendizaje en Python.
+
+- 🐍 Python Mini Projects
+- 🧠 Algoritmos y estructuras de datos
+- 🛠️ Ejercicios aplicados
+
+➡️ **[Explorar Python Mini Projects](https://github.com/guillegiuu/python-mini-projects)**
