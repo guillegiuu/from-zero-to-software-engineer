@@ -91,11 +91,11 @@ Todos mis certificados obtenidos durante el aprendizaje.
 
 ## 📚 Recursos
 
-Material de apoyo utilizado durante el aprendizaje.
+Biblioteca de material de estudio, guías y recursos descargables.
 
-- Cheat Sheets
-- Apuntes visuales
-- Preguntas de entrevistas
-- Documentación oficial
-- Libros
-- Recursos útiles
+- 📘 eBooks
+- 📄 Cheat Sheets
+- 📝 Apuntes de estudio
+- 📚 Material de consulta
+
+➡️ [**Explorar Recursos**](./resources/)
