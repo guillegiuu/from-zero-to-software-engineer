@@ -43,9 +43,10 @@ Sintaxis, consultas y fundamentos de SQL organizados como material de estudio y 
 
 - 📖 [Ver SQL Quick Syntax](./learning/sql_quick_syntax/)
 - 📚 [Biblioteca de recursos](./resources/)
-- 📘 [Ver eBook de SQL](./resources/SQL_Quick_Syntax_GuilleGiu.pdf)
-
 - 📘 [Ver eBook de SQL](https://github.com/guillegiuu/from-zero-to-software-engineer/releases/download/sql-v1.0.0/SQL_Quick_Syntax_GuilleGiu.pdf)
+
+➡️ **[Explorar SQL](./learning/sql_quick_syntax/)**
+
 ---
 
 ## 🧠 Computer Science
