@@ -2,9 +2,17 @@
 
 > Mi portfolio público de aprendizaje documentando mi camino para convertirme en Backend Python Developer.
 
+### 🔗 Acceso rápido
+
+[📚 Learning](./learning/) · [📦 Proyectos](./projects/) · [📖 Recursos](./resources/) · [🏆 Certificaciones](./certifications/)
+
 ---
 
 # 📖 Sobre este proyecto
+
+Bienvenido.
+
+Este repositorio reúne todo mi proceso de aprendizaje en programación.
 
 Bienvenido.
 
