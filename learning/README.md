@@ -1,6 +1,7 @@
 # 📚 Learning
 
 > Mi biblioteca de aprendizaje en programación.
+> 🏠 [Volver al inicio](../)
 
 ---
 
@@ -12,5 +13,5 @@ Cada carpeta representa un área de estudio e incluye teoría, ejercicios, apunt
 
 - 🐍 [Python](./python/)
 - 🧠 Computer Science
-- 🗄️ SQL
+- 🗄️ [SQL Quick Syntax](./sql_quick_syntax/)
 - 🌐 freeCodeCamp
