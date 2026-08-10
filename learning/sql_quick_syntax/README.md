@@ -58,7 +58,7 @@ El objetivo de **SQL Quick Syntax** es funcionar como una referencia compacta, e
 - ✅ [SELECT / DISTINCT](./1_consultas/01_SELECT.png)
 - ✅ [WHERE · AND · OR · NOT](./1_consultas/02_WHERE.png)
 - ✅ [LIKE · IN · BETWEEN](./1_consultas/03_LIKE.png)
-- ✅ [ORDER BY · LIMIT](./1_consultas/04_ORDER_BY_LIMIT.png)
+- ✅ [ORDER BY · LIMIT](./1_consultas/04_ORDER_BY_LIMIT.png.png)
 
 ### ✏️ Parte 2 · Modificar Datos
 
