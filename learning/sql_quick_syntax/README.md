@@ -55,52 +55,38 @@ El objetivo de **SQL Quick Syntax** es funcionar como una referencia compacta, e
 
 ### 🔎 Parte 1 · Consultas
 
-- ✅ SELECT / DISTINCT
-- ✅ WHERE
-- ✅ AND / OR / NOT
-- ✅ LIKE
-- ✅ IN / BETWEEN
-- ✅ ORDER BY / LIMIT
+- ✅ [SELECT / DISTINCT](./1_consultas/01_SELECT.png)
+- ✅ [WHERE · AND · OR · NOT](./1_consultas/02_WHERE.png)
+- ✅ [LIKE · IN · BETWEEN](./1_consultas/03_LIKE.png)
+- ✅ [ORDER BY · LIMIT](./1_consultas/04_ORDER_BY_LIMIT.png)
 
 ### ✏️ Parte 2 · Modificar Datos
 
-- ✅ INSERT
-- ✅ UPDATE
-- ✅ DELETE
+- ✅ [INSERT](./2_modificar_datos/01_INSERT.png)
+- ✅ [UPDATE](./2_modificar_datos/02_UPDATE.png)
+- ✅ [DELETE](./2_modificar_datos/03_DELETE.png)
 
 ### 📊 Parte 3 · Funciones de Agregación
 
-- ✅ COUNT / SUM
-- ✅ AVG / MIN / MAX
-- ✅ GROUP BY
-- ✅ HAVING
+- ✅ [COUNT · SUM · AVG · MIN · MAX](./3_funciones_agregacion/01_COUNT_SUM_AVG_MIN_MAX.png)
+- ✅ [GROUP BY · HAVING](./3_funciones_agregacion/02_GROUP_BY_HAVING.png)
 
 ### 🔗 Parte 4 · Relaciones
 
-- ✅ ALIASES
-- ✅ INNER JOIN
-- ✅ LEFT JOIN
-- ✅ RIGHT JOIN
-- ✅ FULL JOIN
-- ✅ CROSS JOIN
-- ✅ SELF JOIN
+- ✅ [ALIASES](./4_relaciones/01_ALIASES.png)
+- ✅ [INNER · LEFT · RIGHT · FULL JOIN](./4_relaciones/02_INNER_LEFT_RIGHT_FULL_JOIN.png)
+- ✅ [CROSS · SELF JOIN](./4_relaciones/03_CROSS_SELF_JOIN.png)
 
 ### 🚀 Parte 5 · Consultas Avanzadas
 
-- ✅ UNION / UNION ALL
-- ✅ EXISTS
-- ✅ ANY / ALL
-- ✅ INSERT INTO SELECT
+- ✅ [UNION · UNION ALL](./5_consultas_avanzadas/01_UNION_UNION_ALL.png)
+- ✅ [EXISTS · ANY · ALL](./5_consultas_avanzadas/02_EXISTS_ANY_ALL.png)
+- ✅ [INSERT INTO SELECT](./5_consultas_avanzadas/03_INSERT_INTO_SELECT.png)
 
 ### 🛠️ Parte 6 · Utilidades
 
-- ✅ IS NULL / IS NOT NULL
-- ✅ IFNULL()
-- ✅ COALESCE()
-- ✅ CREATE
-- ✅ ALTER
-- ✅ DROP
-- ✅ TRUNCATE
+- ✅ [NULL · IFNULL · COALESCE](./6_utilidades/01_NULL_IFNULL_COALESCE.png)
+- ✅ [CREATE · ALTER · DROP · TRUNCATE](./6_utilidades/02_CREATE_ALTER_DROP_TRUNCATE.png)
 
 ---
 
