@@ -72,7 +72,7 @@ Todo el contenido fue reorganizado y documentado para facilitar el aprendizaje p
 ### 🔤 Tipos y Herramientas
 
 - ✅ [Strings](./volumen_13_strings/)
-- ✅ [String Methods](./volumen_14_string_methods/)
+- ✅ [String Methods](./volumen_14_strings_methods/)
 - ✅ [Booleanos](./volumen_15_booleanos/)
 - ✅ [Range + Iteradores](./volumen_16_range_iteradores/)
 
