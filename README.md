@@ -31,7 +31,7 @@ Todo mi recorrido de aprendizaje en Python, desde los fundamentos hasta Programa
 
 - 📖 [Ver los 24 volúmenes](./learning/python/)
 - 📚 [Biblioteca de recursos](./resources/)
-- 📥 [Descargar el eBook de Python](https://github.com/guillegiuu/from-zero-to-software-engineer/releases/download/v1.0.0/Python_Basics_GuilleGiu_Notes_v1.pdf)
+- 📘 [Ver eBook de Python](https://github.com/guillegiuu/from-zero-to-software-engineer/releases/download/v1.0.0/Python_Basics_GuilleGiu_Notes_v1.pdf)
 
 ➡️ **[Explorar Python](./learning/python/)**
 
@@ -43,7 +43,7 @@ Sintaxis, consultas y fundamentos de SQL organizados como material de estudio y 
 
 - 📖 [Ver SQL Quick Syntax](./learning/sql_quick_syntax/)
 - 📚 [Biblioteca de recursos](./resources/)
-- 📥 [Ver el eBook de SQL](./resources/SQL_Quick_Syntax_GuilleGiu.pdf)
+- 📘 [Ver eBook de SQL](./resources/SQL_Quick_Syntax_GuilleGiu.pdf)
 
 ➡️ **[Explorar SQL](./learning/sql_quick_syntax/)**
 
