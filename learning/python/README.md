@@ -12,11 +12,6 @@
 
 ---
 
-## 📘 eBook Gratuito
-
-<p align="center">
-  <img src="../resources/python_cover.png" width="450">
-</p>
 
 ### 🐍 Python Básico · Visual Notes
 
