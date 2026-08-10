@@ -21,11 +21,13 @@
 
 ### 📥 Descarga gratuita
 
-👉 **[Python Basics GuilleGiu Notes.pdf](../resources/Python_Basics_GuilleGiu_Notes_v1.pdf)**
+👉 **[Python Basics GuilleGiu Notes.pdf](../../resources/Python_Basics_GuilleGiu_Notes_v1.pdf)**
 
 </p>
 
 ---
+
+
 
 ## 📊 Estadísticas
 
