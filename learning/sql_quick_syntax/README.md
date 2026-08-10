@@ -1,95 +1,147 @@
 # 🗄️ SQL Quick Syntax
 
-> Una guía visual y resumida para aprender y consultar la sintaxis esencial de SQL.
+📁 [Learning](../)
 
-Este espacio reúne mis apuntes visuales de **SQL**, organizados durante mi formación en programación y Backend Development.
-
-El objetivo es tener una referencia rápida, simple y práctica para repasar consultas, modificación de datos, funciones, relaciones entre tablas y otras herramientas importantes de SQL.
+> Mi colección de sintaxis y apuntes esenciales de SQL, organizada por temas para facilitar el estudio y la consulta rápida.
 
 ---
 
-## 📚 Contenido
+# 📖 SQL Quick Syntax · Visual Notes
 
-### 🔎 Parte 1 — Consultas
-- SELECT
-- DISTINCT
-- WHERE
-- AND / OR / NOT
-- LIKE
-- IN
-- BETWEEN
-- ORDER BY
-- LIMIT
-
-### ✏️ Parte 2 — Modificar Datos
-- INSERT
-- UPDATE
-- DELETE
-
-### 📊 Parte 3 — Funciones de Agregación
-- COUNT
-- SUM
-- AVG
-- MIN
-- MAX
-- GROUP BY
-- HAVING
-
-### 🔗 Parte 4 — Relaciones
-- ALIASES
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL JOIN
-- CROSS JOIN
-- SELF JOIN
-
-### 🚀 Parte 5 — Consultas Avanzadas
-- UNION
-- UNION ALL
-- EXISTS
-- ANY
-- ALL
-- INSERT INTO SELECT
-
-### 🛠️ Parte 6 — Utilidades
-- IS NULL / IS NOT NULL
-- IFNULL()
-- COALESCE()
-- CREATE
-- ALTER
-- DROP
-- TRUNCATE
+> Una guía visual y compacta para aprender y repasar la sintaxis fundamental de SQL.
 
 ---
 
-## 🎯 Objetivo
+## 📊 Estadísticas
 
-Crear una colección compacta de **SQL Visual Notes** que sirva como:
+| | |
+|---|---|
+| 📄 **Visual Notes** | **17** |
+| 📚 **Partes** | **6** |
+| 🗄️ **Contenido** | **SQL Fundamentals** |
+| 🎨 **Estilo** | **Visual Notes** |
+| ⚡ **Lectura** | **Rápida y práctica** |
+| 🎯 **Nivel** | **Fundamentos** |
 
-- 📖 Material de estudio
-- ⚡ Referencia rápida de sintaxis
-- 🔄 Repaso de conceptos
-- 💻 Apoyo para ejercicios y proyectos
-
-La idea no es crear un libro extenso, sino mantener una guía corta con los conceptos y comandos que realmente vale la pena recordar.
+> 💙 **Material creado y organizado como referencia rápida de estudio.**
 
 ---
 
-## 🗂️ Organización
+## 📚 Sobre esta sección
 
-El contenido estará dividido por temas:
+Esta sección reúne mis apuntes relacionados con **SQL**, desarrollados durante mi formación en programación y Backend Development.
+
+Aquí encontrarás sintaxis, ejemplos y conceptos esenciales organizados de forma visual para facilitar el estudio y el repaso.
+
+El objetivo de **SQL Quick Syntax** es funcionar como una referencia compacta, evitando explicaciones innecesariamente extensas.
+
+---
+
+## 📂 Contenido
+
+- 🟨 Quick Notes
+- 💻 Sintaxis SQL
+- 🔎 Consultas
+- ✏️ Manipulación de datos
+- 📊 Funciones de agregación
+- 🔗 Relaciones y JOINs
+- 🚀 Consultas avanzadas
+- 🛠️ Utilidades
+- 📄 PDF completo
+
+---
+
+## 🗺️ Roadmap de SQL
+
+### 🔎 Parte 1 · Consultas
+
+- ✅ SELECT / DISTINCT
+- ✅ WHERE
+- ✅ AND / OR / NOT
+- ✅ LIKE
+- ✅ IN / BETWEEN
+- ✅ ORDER BY / LIMIT
+
+### ✏️ Parte 2 · Modificar Datos
+
+- ✅ INSERT
+- ✅ UPDATE
+- ✅ DELETE
+
+### 📊 Parte 3 · Funciones de Agregación
+
+- ✅ COUNT / SUM
+- ✅ AVG / MIN / MAX
+- ✅ GROUP BY
+- ✅ HAVING
+
+### 🔗 Parte 4 · Relaciones
+
+- ✅ ALIASES
+- ✅ INNER JOIN
+- ✅ LEFT JOIN
+- ✅ RIGHT JOIN
+- ✅ FULL JOIN
+- ✅ CROSS JOIN
+- ✅ SELF JOIN
+
+### 🚀 Parte 5 · Consultas Avanzadas
+
+- ✅ UNION / UNION ALL
+- ✅ EXISTS
+- ✅ ANY / ALL
+- ✅ INSERT INTO SELECT
+
+### 🛠️ Parte 6 · Utilidades
+
+- ✅ IS NULL / IS NOT NULL
+- ✅ IFNULL()
+- ✅ COALESCE()
+- ✅ CREATE
+- ✅ ALTER
+- ✅ DROP
+- ✅ TRUNCATE
+
+---
+
+## 📁 Organización del contenido
 
 ```text
 sql_quick_syntax/
 │
-├── 00_portada/
-├── 00_indice/
-├── 01_consultas/
-├── 02_modificar_datos/
-├── 03_funciones_agregacion/
-├── 04_relaciones/
-├── 05_consultas_avanzadas/
-├── 06_utilidades/
+├── 0_portada/
+│   └── SQL_Quick_Syntax_Portada.png
+│
+├── 0_indice/
+│   └── SQL_Quick_Syntax_Indice.png
+│
+├── 1_consultas/
+│   ├── 01_SELECT.png
+│   ├── 02_WHERE.png
+│   ├── 03_LIKE.png
+│   └── 04_ORDER_BY_LIMIT.png
+│
+├── 2_modificar_datos/
+│   ├── 01_INSERT.png
+│   ├── 02_UPDATE.png
+│   └── 03_DELETE.png
+│
+├── 3_funciones_agregacion/
+│   ├── 01_COUNT_SUM_AVG_MIN_MAX.png
+│   └── 02_GROUP_BY_HAVING.png
+│
+├── 4_relaciones/
+│   ├── 01_ALIASES.png
+│   ├── 02_INNER_LEFT_RIGHT_FULL_JOIN.png
+│   └── 03_CROSS_SELF_JOIN.png
+│
+├── 5_consultas_avanzadas/
+│   ├── 01_UNION_UNION_ALL.png
+│   ├── 02_EXISTS_ANY_ALL.png
+│   └── 03_INSERT_INTO_SELECT.png
+│
+├── 6_utilidades/
+│   ├── 01_NULL_IFNULL_COALESCE.png
+│   └── 02_CREATE_ALTER_DROP_TRUNCATE.png
 │
 └── README.md
