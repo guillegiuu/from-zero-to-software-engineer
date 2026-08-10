@@ -1,80 +1,36 @@
 # 📚 Resources
 
-> Colección de recursos descargables creados durante mi recorrido de aprendizaje como Software Engineer.
+> Guías, eBooks y material de consulta.
+
+🏠 [Volver al inicio](../)
 
 ---
 
-# 📖 eBooks
+## 📘 eBooks
 
-| Recurso | Estado | Descripción |
-|:---------|:------:|:------------|
-| 🐍 **GuilleGiu Notes – Python Básico** | ✅ | Visual Notes · 92 páginas · 24 volúmenes · 100% Gratis |
-| 🗄️ **GuilleGiu Notes – SQL Quick Syntax** | 🚧 | Próximamente |
-| 💻 **GuilleGiu Notes – Computer Science** | 🚧 | Próximamente |
+### 🐍 Python Basics · Visual Notes
 
----
+**92 páginas · 24 volúmenes · Python Fundamentals**
 
-<p align="center">
-  <img src="./python_cover.png" width="250">
-</p>
-
-<h2 align="center">
-🐍 GuilleGiu Notes – Python Básico
-</h2>
-
-<p align="center">
-Visual Notes • 92 páginas • 24 volúmenes • 100% Gratis
-</p>
-
-<p align="center">
-
-
-### 📥 Descargar eBook
-
-### **[⬇️ Descargar PDF](https://github.com/guillegiuu/from-zero-to-software-engineer/releases/download/v1.0.0/Python_Basics_GuilleGiu_Notes_v1.pdf)**
-
-</p>
+- 📖 [Ver eBook](./Python_Basics_GuilleGiu_Notes_v1.pdf)
+- 🐍 [Explorar Visual Notes](../learning/python/)
 
 ---
 
-## 📊 Estadísticas
+### 🗄️ SQL Quick Syntax · Visual Notes
 
-| | |
-|:---|:---:|
-| 📖 Páginas | **92** |
-| 📚 Volúmenes | **24** |
-| 🐍 Contenido | **Python Fundamentals** |
-| ✍️ Formato | **Visual Notes** |
-| ⚡ Lectura | **Rápida y práctica** |
-| 🎯 Nivel | **Principiante** |
-| 🆓 Precio | **100% Gratis** |
+**19 páginas · 6 partes · SQL Fundamentals**
+
+- 📖 [Ver eBook](./SQL_Quick_Syntax_GuilleGiu.pdf)
+- 🗄️ [Explorar Visual Notes](../learning/sql_quick_syntax/)
 
 ---
 
-## 🎨 Covers
+## 🚧 Próximamente
 
-- 🐍 Python Cover
-- 🗄️ SQL Cover *(Próximamente)*
-- 💻 Computer Science Cover *(Próximamente)*
-
----
-
-## 📌 Objetivo
-
-Estos recursos fueron creados para ayudar a cualquier persona que esté comenzando en programación.
-
-Todo el contenido fue resumido y organizado por mí durante mi proceso de aprendizaje, buscando que sea claro, visual y fácil de consultar.
+- 📘 Computer Science
+- 🐘 PostgreSQL
 
 ---
 
-<p align="center">
-
-⭐ Si estos recursos te resultan útiles, podés dejar una estrella al repositorio.
-
-</p>
-
----
-
-<p align="center">
-<b>Designed & Summarized by GuilleGiu</b>
-</p>
+**Designed & Summarized by GuilleGiu**
