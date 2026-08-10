@@ -2,13 +2,13 @@
 
 📁 [Learning](../)
 
-> Mi recorrido de aprendizaje en Python, organizado por temas para facilitar el estudio progresivo y la consulta rápida.
+> Mi colección de apuntes de Python, organizada para facilitar el estudio y la consulta rápida.
 
 ---
 
-# 📖 Python Basics · Visual Notes
+## 📖 Python Basics · Visual Notes
 
-> Una guía visual para aprender y repasar los fundamentos de Python desde cero.
+> Una guía visual y compacta para aprender y repasar los fundamentos de Python.
 
 ---
 
@@ -21,20 +21,18 @@
 | 🐍 **Contenido** | **Python Fundamentals** |
 | 🎨 **Estilo** | **Visual Notes** |
 | ⚡ **Lectura** | **Rápida y práctica** |
-| 🎯 **Nivel** | **Ideal para principiantes** |
+| 🎯 **Nivel** | **Fundamentos** |
 | 🆓 **Precio** | **100% Gratis** |
 
-> 💙 **Creado por un principiante, para ayudar a otros principiantes.**
+> 💙 Material creado y organizado como referencia rápida de estudio.
 
 ---
 
 ## 📚 Sobre esta sección
 
-Esta sección reúne el contenido relacionado con **Python** que fui desarrollando durante mi formación en programación y Backend Development.
+Esta sección reúne mis apuntes de **Python**, organizados desde los fundamentos del lenguaje hasta Programación Orientada a Objetos.
 
-Aquí encontrarás apuntes visuales, ejemplos de código, ejercicios, quizzes y material complementario organizado por conceptos.
-
-Todo el contenido fue reorganizado y documentado para facilitar el aprendizaje paso a paso y servir también como referencia rápida.
+La idea de **Python Basics · Visual Notes** es concentrar los conceptos esenciales en material visual para estudiar, repasar y consultar rápidamente.
 
 ---
 
@@ -42,10 +40,9 @@ Todo el contenido fue reorganizado y documentado para facilitar el aprendizaje p
 
 - 🟨 Quick Notes
 - 💻 Ejemplos de código
-- 🧩 Ejercicios
+- 🧪 Ejercicios
 - 📝 Quizzes
-- 📄 PDF completo
-- 📘 Fundamentos de Python
+- 📖 Fundamentos de Python
 
 ---
 
@@ -69,7 +66,7 @@ Todo el contenido fue reorganizado y documentado para facilitar el aprendizaje p
 - ✅ [Diccionarios](./volumen_11_diccionarios/)
 - ✅ [Sets](./volumen_12_sets/)
 
-### 🔤 Tipos y Herramientas
+### 🧰 Tipos y Herramientas
 
 - ✅ [Strings](./volumen_13_strings/)
 - ✅ [String Methods](./volumen_14_strings_methods/)
@@ -82,47 +79,31 @@ Todo el contenido fue reorganizado y documentado para facilitar el aprendizaje p
 - ✅ [DateTime](./volumen_18_datetime/)
 - ✅ [Math + Random](./volumen_19_math_random/)
 - ✅ [JSON](./volumen_20_JSON/)
+
+### ⚙️ Herramientas Intermedias
+
 - ✅ [Expresiones Regulares](./volumen_21_regex/)
-
-### ⚙️ Manejo y Programación
-
 - ✅ [Try / Except](./volumen_22_try_except/)
 - ✅ [File Handling](./volumen_23_files/)
-- ✅ [Programación Orientada a Objetos](./volumen_24_poo/)
+
+### 🧱 Programación Orientada a Objetos
+
+- ✅ [POO](./volumen_24_poo/)
 
 ---
 
-## 🗂️ Organización del contenido
+## 📘 eBook
 
-```text
-python/
-│
-├── volumen_01_variables/
-├── volumen_02_tipos_de_datos/
-├── volumen_03_casting/
-├── volumen_04_entrada_salida/
-├── volumen_05_operadores/
-├── volumen_06_condicionales/
-├── volumen_07_bucles/
-├── volumen_08_funciones/
-│
-├── volumen_09_listas/
-├── volumen_10_tuplas/
-├── volumen_11_diccionarios/
-├── volumen_12_sets/
-│
-├── volumen_13_strings/
-├── volumen_14_string_methods/
-├── volumen_15_booleanos/
-├── volumen_16_range_iteradores/
-│
-├── volumen_17_modulos/
-├── volumen_18_datetime/
-├── volumen_19_math_random/
-├── volumen_20_JSON/
-├── volumen_21_regex/
-├── volumen_22_try_except/
-├── volumen_23_files/
-├── volumen_24_poo/
-│
-└── README.md
+Los **24 volúmenes** reunidos en una única guía de estudio.
+
+👉 [**Ver Python Basics · GuilleGiu Notes**](../../resources/)
+
+---
+
+## 🎯 Objetivo
+
+Construir una base sólida de **Python** para continuar avanzando en Backend Development, bases de datos y proyectos reales.
+
+---
+
+**Designed & Summarized by GuilleGiu**
