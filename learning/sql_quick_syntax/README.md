@@ -16,9 +16,10 @@
 
 Todas las Visual Notes reunidas en una única guía compacta.
 
-### 📥 Descarga gratuita
+### 📖 Ver eBook
 
 👉 **[SQL Quick Syntax · GuilleGiu Notes](./SQL_Quick_Syntax_GuilleGiu.pdf)**
+
 
 ---
 
