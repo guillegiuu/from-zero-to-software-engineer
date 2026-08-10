@@ -37,6 +37,18 @@ Todo mi recorrido de aprendizaje en Python, desde los fundamentos hasta Programa
 
 ---
 
+## 🗄️ SQL
+
+Sintaxis, consultas y fundamentos de SQL organizados como material de estudio y referencia rápida.
+
+- 📖 [Ver SQL Quick Syntax](./learning/sql_quick_syntax/)
+- 📚 [Biblioteca de recursos](./resources/)
+- 📥 [Ver el eBook de SQL](./resources/SQL_Quick_Syntax_GuilleGiu.pdf)
+
+➡️ **[Explorar SQL](./learning/sql_quick_syntax/)**
+
+---
+
 ## 🧠 Computer Science
 
 Mi recorrido por los fundamentos de Ciencias de la Computación.
@@ -47,20 +59,7 @@ Mi recorrido por los fundamentos de Ciencias de la Computación.
 - 🎯 Exámenes
 - 🧪 Mini proyectos
 
-➡️ Explorar Computer Science
-
----
-
-## 🗄️ SQL
-
-Material relacionado con SQL.
-
-- 📖 Teoría
-- 💻 Ejercicios
-- 📒 Quick Notes
-- 📄 Cheat Sheets
-
-➡️ Explorar SQL
+➡️ **Explorar Computer Science**
 
 ---
 
