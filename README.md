@@ -14,10 +14,6 @@ Bienvenido.
 
 Este repositorio reúne todo mi proceso de aprendizaje en programación.
 
-Bienvenido.
-
-Este repositorio reúne todo mi proceso de aprendizaje en programación.
-
 Mi objetivo no es solamente obtener certificados, sino demostrar mi evolución mediante:
 
 - 📚 Apuntes organizados
