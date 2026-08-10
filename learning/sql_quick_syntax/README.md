@@ -2,13 +2,23 @@
 
 📁 [Learning](../)
 
-> Mi colección de sintaxis y apuntes esenciales de SQL, organizada por temas para facilitar el estudio y la consulta rápida.
+> Mi colección de apuntes y sintaxis esencial de SQL, organizada para facilitar el estudio y la consulta rápida.
 
 ---
 
 # 📖 SQL Quick Syntax · Visual Notes
 
-> Una guía visual y compacta para aprender y repasar la sintaxis fundamental de SQL.
+> Una guía visual y compacta para aprender, repasar y consultar los fundamentos de SQL.
+
+---
+
+## 📘 PDF Completo
+
+Todas las Visual Notes reunidas en una única guía compacta.
+
+### 📥 Descarga gratuita
+
+👉 **[SQL Quick Syntax · GuilleGiu Notes](./SQL_Quick_Syntax_GuilleGiu.pdf)**
 
 ---
 
@@ -16,12 +26,14 @@
 
 | | |
 |---|---|
-| 📄 **Visual Notes** | **17** |
+| 📄 **Páginas** | **19** |
+| 🖼️ **Visual Notes** | **17** |
 | 📚 **Partes** | **6** |
 | 🗄️ **Contenido** | **SQL Fundamentals** |
 | 🎨 **Estilo** | **Visual Notes** |
 | ⚡ **Lectura** | **Rápida y práctica** |
 | 🎯 **Nivel** | **Fundamentos** |
+| 🆓 **Precio** | **100% Gratis** |
 
 > 💙 **Material creado y organizado como referencia rápida de estudio.**
 
@@ -31,9 +43,9 @@
 
 Esta sección reúne mis apuntes relacionados con **SQL**, desarrollados durante mi formación en programación y Backend Development.
 
-Aquí encontrarás sintaxis, ejemplos y conceptos esenciales organizados de forma visual para facilitar el estudio y el repaso.
+Aquí encontrarás sintaxis, ejemplos y conceptos esenciales organizados de forma visual para facilitar el aprendizaje, el repaso y la consulta rápida.
 
-El objetivo de **SQL Quick Syntax** es funcionar como una referencia compacta, evitando explicaciones innecesariamente extensas.
+La idea de **SQL Quick Syntax** no es crear un manual extenso, sino concentrar los comandos y conceptos fundamentales en pocas páginas.
 
 ---
 
@@ -42,7 +54,7 @@ El objetivo de **SQL Quick Syntax** es funcionar como una referencia compacta, e
 - 🟨 Quick Notes
 - 💻 Sintaxis SQL
 - 🔎 Consultas
-- ✏️ Manipulación de datos
+- ✏️ Modificación de datos
 - 📊 Funciones de agregación
 - 🔗 Relaciones y JOINs
 - 🚀 Consultas avanzadas
@@ -58,7 +70,7 @@ El objetivo de **SQL Quick Syntax** es funcionar como una referencia compacta, e
 - ✅ [SELECT / DISTINCT](./1_consultas/01_SELECT.png)
 - ✅ [WHERE · AND · OR · NOT](./1_consultas/02_WHERE.png)
 - ✅ [LIKE · IN · BETWEEN](./1_consultas/03_LIKE.png)
-- ✅ [ORDER BY · LIMIT](./1_consultas/04_ORDER_BY_LIMIT.png.png)
+- ✅ [ORDER BY · LIMIT](./1_consultas/04_ORDER_BY_LIMIT.png)
 
 ### ✏️ Parte 2 · Modificar Datos
 
@@ -96,10 +108,7 @@ El objetivo de **SQL Quick Syntax** es funcionar como una referencia compacta, e
 sql_quick_syntax/
 │
 ├── 0_portada/
-│   └── SQL_Quick_Syntax_Portada.png
-│
 ├── 0_indice/
-│   └── SQL_Quick_Syntax_Indice.png
 │
 ├── 1_consultas/
 │   ├── 01_SELECT.png
@@ -130,4 +139,5 @@ sql_quick_syntax/
 │   ├── 01_NULL_IFNULL_COALESCE.png
 │   └── 02_CREATE_ALTER_DROP_TRUNCATE.png
 │
+├── SQL_Quick_Syntax_GuilleGiu.pdf
 └── README.md
