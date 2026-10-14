@@ -4,7 +4,7 @@
 
 ### 🔗 Acceso rápido
 
-[📚 Learning](./learning/) · [📦 Proyectos](https://github.com/guillegiuu/python-mini-projects) · [📖 Recursos](./resources/) · [🏆 Certificaciones](./certifications/)
+[📚 Learning](./learning/) · [📦 Proyectos](https://github.com/guillegiuu/python-mini-projects) · [📖 Recursos](./resources/) · [🏆 Certificaciones](#-certificaciones)
 
 ---
 
