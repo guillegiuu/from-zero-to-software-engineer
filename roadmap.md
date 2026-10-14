@@ -1,64 +1,30 @@
+
 # 🗺️ Computer Science Roadmap
 
-![Progress](https://img.shields.io/badge/progress-in%20development-blue)
-![Focus](https://img.shields.io/badge/focus-computer%20science-green)
-![Level](https://img.shields.io/badge/level-foundations-orange)
+Mi recorrido de aprendizaje en Computer Science, Python y bases de datos.
 
-Registro de los temas que fui explorando durante mi formación en Computer Science y programación.
-
-Este roadmap me sirve para organizar lo aprendido, reforzar bases y visualizar mi progreso a lo largo del tiempo.
+**Estado:** Formación en progreso · Python Backend Developer
 
 ---
 
-## 🌐 Referencia visual
+### 🐍 Python & Programming
+Variables · Control Flow · Loops · Functions · OOP · Files · Modules · Recursion
 
-Tomo este roadmap interactivo como referencia visual para tener una visión más amplia del área:
+### 🧠 Data Structures & Algorithms
+Arrays · Linked Lists · Stacks · Queues · Hash Maps · Heaps · Trees · Graphs · BFS/DFS · Dijkstra · Sorting · Dynamic Programming · Big-O
 
-👉 [Ver roadmap completo](https://roadmap.sh/computer-science?s=658b536d54b5771051480ebe)
+### 🗄️ SQL & PostgreSQL
+Queries · JOINs · Aggregations · Schemas · Triggers · Constraints · Security & Roles · Indexes · EXPLAIN/ANALYZE · Normalization
 
----
-
-## ✅ Temas trabajados
-
-- Introduction to Programming
-- Variables and Data Types
-- Control Flow
-- Functions
-- Lists and Dictionaries
-- Problem Solving Basics
-- Arrays
-- Big-O Notation
-- Linked Lists
-- Stacks
-- Queues
-- Hash Maps
-- Trees
-- Graphs
-- Recursion
-
-### 🔹 Sorting Algorithms
-- Bubble Sort
-- Merge Sort
-- Quick Sort
+### 🚀 Formación y próximos pasos
+- 🔄 Computer Science — Codecademy
+- 🔄 Python Developer — Coursera / Microsoft
+- ⏳ Python Backend — Django · APIs · PostgreSQL
+- ⏳ AI Engineering — LLMs · RAG · Agents
 
 ---
 
-## 🔄 En desarrollo
+### 🔗 Navegación
+➡️ [Mi roadmap interactivo](https://roadmap.sh/u/guillegiu?roadmapId=computer-science)
 
-- Dynamic Programming
-- Advanced Graph concepts
-- Problem-solving patterns
-
----
-
-## 📌 Nota
-
-Este documento refleja mi recorrido y se irá actualizando a medida que avance en nuevos temas.
-
-Es una referencia personal complementaria, alineada principalmente con mi formación en Codecademy y otros recursos.
-
----
-
-## 🔗 Navegación
-
-🏠 [Volver al README del repositorio](./README.md)
+⬅️ [Volver al README principal](./README.md)
