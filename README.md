@@ -4,7 +4,7 @@
 
 ### 🔗 Acceso rápido
 
-[📚 Learning](./learning/) · [📦 Proyectos](https://github.com/guillegiuu/python-mini-projects) · [📖 Recursos](./resources/) · [🏆 Certificaciones](#-certificaciones)
+[📚 Learning](./learning/) · [📦 Proyectos](https://github.com/guillegiuu/python-mini-projects) · [📖 Recursos](./resources/) · [🏆 Certificaciones](#-certificaciones) · [🗺️ Roadmap GuilleGiu](https://roadmap.sh/u/guillegiu?roadmapId=computer-science)
 
 ---
 
