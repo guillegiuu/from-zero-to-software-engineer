@@ -12,20 +12,17 @@
 
 Bienvenido.
 
-Este repositorio reúne todo mi proceso de aprendizaje en programación.
+Este repositorio documenta mi proceso de aprendizaje en programación.
 
-Mi objetivo no es solamente obtener certificados, sino demostrar mi evolución mediante:
+Mi objetivo es demostrar mi evolución mediante:
 
-- 📚 Apuntes organizados
-- 💻 Ejemplos de código
-- 🧩 Ejercicios prácticos
-- 🚀 Proyectos
-- 🧠 Computer Science
-- 🗄️ SQL
-- 🏆 Certificaciones
-- 📈 Seguimiento de progreso
+- 📚 Apuntes y cheatsheets de Python y SQL
+- 💻 Ejercicios prácticos y ejemplos de código
+- 🚀 Proyectos de programación
+- 🏆 Certificaciones obtenidas
+- 📈 Seguimiento de mi formación
 
-Cada sección representa una etapa real de mi formación.
+Cada sección representa una etapa de mi desarrollo profesional.
 
 ---
 
