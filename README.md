@@ -26,8 +26,8 @@ Cada sección representa una etapa de mi desarrollo profesional.
 
 ---
 
+## 📊 Seguimiento de Codecademy
 
-## 📊 Skills Tracking
 
 <p align="center">
   <img src="codecademy-skills.svg"
