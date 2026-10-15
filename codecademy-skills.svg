@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="252" viewBox="0 0 620 252" role="img" aria-labelledby="title desc">
+<title id="title">Codecademy Skills Tracking</title>
+<desc id="desc">Computer Science 3659 XP, Python 2182 XP, Data Science 1731 XP, SQL 937 XP.</desc>
+<style>
+  .name{font:600 14px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#e6edf3}
+  .xp{font:500 13px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#9da7b3}
+  .heading{font:700 18px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#f0f6fc}
+  .sub{font:12px system-ui,-apple-system,'Segoe UI',sans-serif;fill:#8b949e}
+  .track{fill:#30363d}
+  .bar{fill:#e3b341;transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.2,.7,.2,1) both}
+  .skill:hover .bar{fill:#ffd866}
+  .skill:hover .name{fill:#ffd866}
+  .skill:nth-of-type(2) .bar{animation-delay:.1s}
+  .skill:nth-of-type(3) .bar{animation-delay:.2s}
+  .skill:nth-of-type(4) .bar{animation-delay:.3s}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @media (prefers-reduced-motion:reduce){.bar{animation:none}}
+</style>
+<rect x="1" y="1" width="618" height="250" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text class="heading" x="24" y="35">Skills Tracking</text>
+<text class="sub" x="24" y="54">Codecademy · Top 4 subjects by XP</text>
+<line x1="24" y1="69" x2="596" y2="69" stroke="#30363d"/>
+<g class="skill"><title>Computer Science: 3.659 XP</title><text class="name" x="24" y="94">Computer Science</text><text class="xp" x="595" y="94" text-anchor="end">3,659 XP</text><rect class="track" x="24" y="103" width="572" height="9" rx="4.5"/><rect class="bar" x="24" y="103" width="523" height="9" rx="4.5"/></g>
+<g class="skill"><title>Python: 2.182 XP</title><text class="name" x="24" y="137">Python</text><text class="xp" x="595" y="137" text-anchor="end">2,182 XP</text><rect class="track" x="24" y="146" width="572" height="9" rx="4.5"/><rect class="bar" x="24" y="146" width="312" height="9" rx="4.5"/></g>
+<g class="skill"><title>Data Science: 1.731 XP</title><text class="name" x="24" y="180">Data Science</text><text class="xp" x="595" y="180" text-anchor="end">1,731 XP</text><rect class="track" x="24" y="189" width="572" height="9" rx="4.5"/><rect class="bar" x="24" y="189" width="247" height="9" rx="4.5"/></g>
+<g class="skill"><title>SQL: 937 XP</title><text class="name" x="24" y="223">SQL</text><text class="xp" x="595" y="223" text-anchor="end">937 XP</text><rect class="track" x="24" y="232" width="572" height="9" rx="4.5"/><rect class="bar" x="24" y="232" width="134" height="9" rx="4.5"/></g>
+</svg>
