@@ -26,6 +26,18 @@ Cada sección representa una etapa de mi desarrollo profesional.
 
 ---
 
+
+## 📊 Skills Tracking
+
+<p align="center">
+  <img src="codecademy-skills.svg"
+       alt="Codecademy Skills Tracking"
+       width="650">
+</p>
+
+---
+
+
 ## 🐍 Python
 
 Todo mi recorrido de aprendizaje en Python, desde los fundamentos hasta Programación Orientada a Objetos.
