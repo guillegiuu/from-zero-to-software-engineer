@@ -64,19 +64,6 @@ Mi recorrido por los fundamentos de Ciencias de la Computación.
 
 ---
 
-## 🌐 freeCodeCamp
-
-Contenido realizado en freeCodeCamp.
-
-- 🧩 Ejercicios
-- 🏆 Certificaciones
-- 💻 Prácticas
-
-➡️ Explorar freeCodeCamp
-
----
-
-
 ## 🏆 Certificaciones
 
 Certificados obtenidos durante mi formación en Computer Science y desarrollo de software.
