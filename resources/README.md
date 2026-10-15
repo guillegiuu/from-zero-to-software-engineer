@@ -2,7 +2,7 @@
 
 > Guías, eBooks y material de consulta.
 
-🏠 [Volver al inicio](../)
+🏠 [Volver al inicio](https://github.com/guillegiuu/from-zero-to-software-engineer)
 
 ---
 
